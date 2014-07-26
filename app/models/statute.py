@@ -1,0 +1,19 @@
+from sqlalchemy import Table, select, or_, func
+from app.models.model import Model
+
+
+class Statute(Model):
+    def __init__(self):
+        super(Statute, self).__init__()
+        self._tbl = Table("statute", self._metadata, autoload=True, autoload_with=self._engine)
+        self._insert = self._tbl.insert()
+
+    def insert_many(self, statutes):
+        return self._conn.execute(self._insert, statutes)
+
+    def get_statute(self, query):
+        query = query.lower()
+        sql = select([self._tbl]).where(func.lower(self._tbl.c.short_name) == query)
+        return self._engine.execute(sql).fetchone()
+
+

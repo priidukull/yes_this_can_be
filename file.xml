@@ -1,0 +1,2818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oigusakt xsi:schemaLocation="tyviseadus_1_10.02.2010 http://xmlr.eesti.ee/xml/schemas/oigusakt/tyviseadus_1_10.02.2010.xsd" xmlns="tyviseadus_1_10.02.2010" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metaandmed>
+		<valjaandja>Riigikogu</valjaandja>
+		<dokumentLiik>seadus</dokumentLiik>
+		<tekstiliik>terviktekst</tekstiliik>
+		
+		<lyhend>AVRS</lyhend><dokumentEtapp>avaldamine</dokumentEtapp>
+		<dokumentStaatus>avaldatud</dokumentStaatus>
+		<vastuvoetud>
+			<aktikuupaev>1995-11-09</aktikuupaev>
+			<avaldamismarge>
+				<RTosa>RT I</RTosa>
+				<RTaasta>1995</RTaasta>
+				<RTnr>87</RTnr>
+				<RTartikkel>1540</RTartikkel>
+				<aktViide>28452</aktViide>
+			</avaldamismarge>
+			<joustumine>1996-09-01</joustumine>
+		</vastuvoetud>
+
+		<avaldamismarge><RTosa>RT I</RTosa><avaldamineKuupaev>2013-12-23</avaldamineKuupaev><RTaasta>2013</RTaasta><RTartikkel>36</RTartikkel><aktViide>123122013036</aktViide></avaldamismarge><kehtivus>
+			<kehtivuseAlgus>2014-01-01+02:00</kehtivuseAlgus>
+		<kehtivuseLopp>2014-12-31+02:00</kehtivuseLopp></kehtivus>
+		<skeemiNimi>tyviseadus_1_10.02.2010.xsd</skeemiNimi>
+		<globaalID>123122013036</globaalID>
+		<metaandmedVersioon>12</metaandmedVersioon>
+		<metaandmedVersioonKuupaev>2014-06-20</metaandmedVersioonKuupaev>
+		<metaandmedVersioonPohjustaja>Maret Mauer</metaandmedVersioonPohjustaja>
+		<terviktekstiGrupiID>161919</terviktekstiGrupiID>
+	</metaandmed>
+	<aktinimi>
+		<nimi>
+			<pealkiri>Abieluvararegistri seadus</pealkiri>
+		</nimi>
+	</aktinimi>
+	<muutmismarge>
+		<aktikuupaev>1996-06-26</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>1996</RTaasta>
+			<RTnr>51</RTnr>
+			<RTartikkel>967</RTartikkel>
+			<aktViide>31293</aktViide>
+		</avaldamismarge>
+		<joustumine>1996-07-29</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>1999-01-20</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>1999</RTaasta>
+			<RTnr>10</RTnr>
+			<RTartikkel>155</RTartikkel>
+			<aktViide>76936</aktViide>
+		</avaldamismarge>
+		<joustumine>2000-01-01</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2001-06-06</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>2001</RTaasta>
+			<RTnr>56</RTnr>
+			<RTartikkel>336</RTartikkel>
+			<aktViide>73017</aktViide>
+		</avaldamismarge>
+		<joustumine>2001-07-07</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2001-11-14</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>2001</RTaasta>
+			<RTnr>93</RTnr>
+			<RTartikkel>565</RTartikkel>
+			<aktViide>73269</aktViide>
+		</avaldamismarge>
+		<joustumine>2002-02-01</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2002-06-05</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>2002</RTaasta>
+			<RTnr>53</RTnr>
+			<RTartikkel>336</RTartikkel>
+			<aktViide>174795</aktViide>
+		</avaldamismarge>
+		<joustumine>2002-07-01</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2005-02-22</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>2005</RTaasta>
+			<RTnr>15</RTnr>
+			<RTartikkel>85</RTartikkel>
+			<aktViide>867951</aktViide>
+		</avaldamismarge>
+		<joustumine>2006-01-01</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2005-06-15</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>2005</RTaasta>
+			<RTnr>39</RTnr>
+			<RTartikkel>308</RTartikkel>
+			<aktViide>919178</aktViide>
+		</avaldamismarge>
+		<joustumine>2006-01-01</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2005-10-12</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>2005</RTaasta>
+			<RTnr>57</RTnr>
+			<RTartikkel>450</RTartikkel>
+			<aktViide>955757</aktViide>
+		</avaldamismarge>
+		<joustumine>2006-01-01</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2006-01-26</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>2006</RTaasta>
+			<RTnr>7</RTnr>
+			<RTartikkel>42</RTartikkel>
+			<aktViide>989550</aktViide>
+		</avaldamismarge>
+		<joustumine>2006-02-04</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2007-01-24</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>2007</RTaasta>
+			<RTnr>12</RTnr>
+			<RTartikkel>66</RTartikkel>
+			<aktViide>12789344</aktViide>
+		</avaldamismarge>
+		<joustumine>2008-01-01</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2007-11-21</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>2007</RTaasta>
+			<RTnr>67</RTnr>
+			<RTartikkel>413</RTartikkel>
+			<aktViide>12892404</aktViide>
+		</avaldamismarge>
+		<joustumine>2007-12-28</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2009-11-18</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>2009</RTaasta>
+			<RTnr>60</RTnr>
+			<RTartikkel>395</RTartikkel>
+			<aktViide>13240237</aktViide>
+		</avaldamismarge>
+		<joustumine>2010-07-01</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2010-04-22</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>2010</RTaasta>
+			<RTnr>22</RTnr>
+			<RTartikkel>108</RTartikkel>
+			<aktViide>13310847</aktViide>
+		</avaldamismarge>
+		<joustumine>2011-01-01</joustumine>
+		<tavatekst> jõustub päeval, mis on kindlaks määratud Euroopa Liidu Nõukogu otsuses Eesti Vabariigi suhtes kehtestatud erandi kehtetuks tunnistamise kohta Euroopa Liidu toimimise lepingu artikli 140 lõikes 2 sätestatud alusel, Euroopa Liidu Nõukogu 13.07.2010. a otsus Nr 2010/416/EL (ELT L 196, 28.07.2010, lk 24–26).</tavatekst>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2010-06-17</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<RTaasta>2010</RTaasta>
+			<RTnr>38</RTnr>
+			<RTartikkel>231</RTartikkel>
+			<aktViide>13332386</aktViide>
+		</avaldamismarge>
+		<joustumine>2010-07-01</joustumine>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2012-12-05</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+			<RTartikkel>1</RTartikkel>
+			<aktViide>119122012001</aktViide>
+		</avaldamismarge>
+		<joustumine>2013-01-01</joustumine>
+		<tavatekst>, osaliselt 29.12.2012</tavatekst>
+	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2013-12-11</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<avaldamineKuupaev>2013-12-23</avaldamineKuupaev>
+			<RTartikkel>1</RTartikkel>
+			<aktViide>123122013001</aktViide>
+		</avaldamismarge>
+		<joustumine>2014-01-01</joustumine>
+		<tavatekst>, osaliselt 01.01.2015 ja 01.01.2020</tavatekst>
+	</muutmismarge>
+	<sisu>
+		<peatykk id="ptk1">
+			<peatykkNr>1</peatykkNr>
+			<kuvatavNr><![CDATA[1. peatükk]]></kuvatavNr>
+			<peatykkPealkiri>ÜLDSÄTTED</peatykkPealkiri>
+			<paragrahv id="para1">
+				<paragrahvNr>1</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 1.]]></kuvatavNr>
+				<paragrahvPealkiri>Abieluvararegister</paragrahvPealkiri>
+				<loige id="para1lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Abieluvararegister on riiklik register, kuhu kantakse abikaasade abieluvaralepingus toodud ning seaduses sätestatud juhtudel teised varalised õigused.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para1lg1b1">
+					<loigeNr ylaIndeks="1">1</loigeNr>
+					<kuvatavNr><![CDATA[(1<sup>1</sup>)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Abieluvararegistrit peetakse elektrooniliselt.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para1lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Abieluvararegistri pidamise ja andmetöötluse korra </tavatekst>
+						<viide>
+							<kuvatavTekst><![CDATA[kehtestab justiitsminister määrusega]]></kuvatavTekst>
+							<viideURID>
+								<viideURI><![CDATA[./dyn=123122013036&id=129122012047]]></viideURI>
+							</viideURID>
+						</viide>
+						<tavatekst>.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para1lg2b1">
+					<loigeNr ylaIndeks="1">2</loigeNr>
+					<kuvatavNr><![CDATA[(2<sup>1</sup>)]]></kuvatavNr>
+					<sisuTekst>
+						<viide>
+							<kuvatavTekst><![CDATA[Justiitsminister võib määrusega kehtestada]]></kuvatavTekst>
+							<viideURID>
+								<viideURI><![CDATA[./dyn=123122013036&id=112072012009]]></viideURI>
+							</viideURID>
+						</viide>
+						<tavatekst> arvutiandmetöötluseks vajalikud nõuded registripidajale esitatavate dokumentide vormi ja esitamise tehniliste tingimuste kohta.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para1lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Abieluvararegistrile ja selle pidamisele kohaldatakse avaliku teabe seaduses andmekogude kohta sätestatut käesolevas seaduses sätestatud erisustega.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<RTaasta>2007</RTaasta>
+							<RTnr>12</RTnr>
+							<RTartikkel>66</RTartikkel>
+							<aktViide>12789344</aktViide>
+						</avaldamismarge>
+						<joustumine>2008-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para2">
+				<paragrahvNr>2</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 2.]]></kuvatavNr>
+				<paragrahvPealkiri>Registripidaja</paragrahvPealkiri>
+				<loige id="para2lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Abieluvararegistrit peavad maakohtute kinnistusosakonnad.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para2lg1b1">
+					<loigeNr ylaIndeks="1">1</loigeNr>
+					<kuvatavNr><![CDATA[(1<sup>1</sup>)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Abieluvararegistri vastutav töötleja on Justiitsministeerium ning volitatud töötleja Registrite ja Infosüsteemide Keskus.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para2lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu -</tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para2lg2b1">
+					<loigeNr ylaIndeks="1">2</loigeNr>
+					<kuvatavNr><![CDATA[(2<sup>1</sup>)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu -</tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para2lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu -</tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<RTaasta>2005</RTaasta>
+							<RTnr>15</RTnr>
+							<RTartikkel>85</RTartikkel>
+							<aktViide>867951</aktViide>
+						</avaldamismarge>
+						<joustumine>2006-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para2lg4">
+					<loigeNr>4</loigeNr>
+					<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu -</tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<RTaasta>2005</RTaasta>
+							<RTnr>39</RTnr>
+							<RTartikkel>308</RTartikkel>
+							<aktViide>919178</aktViide>
+						</avaldamismarge>
+						<joustumine>2006-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para3">
+				<paragrahvNr>3</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 3.]]></kuvatavNr>
+				<paragrahvPealkiri>Kohtunikuabi pädevus</paragrahvPealkiri>
+				<loige id="para3lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Abieluvararegistri kandeid ja kandemääruseid teevad kohtunikuabid.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para3lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu -</tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para3lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kohtunikuabi ei või teha kannet ega kandemäärust, kui ta on abikaasa sugulane või hõimlane või kui muu asjaolu võib tekitada kahtlust tema erapooletuses.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para3lg4">
+					<loigeNr>4</loigeNr>
+					<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu -</tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para4">
+				<paragrahvNr>4</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 4.]]></kuvatavNr>
+				<paragrahvPealkiri>Registri tööpiirkonna muutumine</paragrahvPealkiri>
+				<muutmismarge>
+					<tavatekst>Kehtetu -</tavatekst>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+						<RTartikkel>1</RTartikkel>
+						<aktViide>119122012001</aktViide>
+					</avaldamismarge>
+					<joustumine>2013-01-01</joustumine>
+				</muutmismarge>
+			</paragrahv>
+			<paragrahv id="para5">
+				<paragrahvNr>5</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 5.]]></kuvatavNr>
+				<muutmismarge>
+					<tavatekst>Kehtetu -</tavatekst>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<RTaasta>2005</RTaasta>
+						<RTnr>15</RTnr>
+						<RTartikkel>85</RTartikkel>
+						<aktViide>867951</aktViide>
+					</avaldamismarge>
+					<joustumine>2006-01-01</joustumine>
+				</muutmismarge>
+			</paragrahv>
+			<paragrahv id="para6">
+				<paragrahvNr>6</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 6.]]></kuvatavNr>
+				<paragrahvPealkiri>Abieluvararegistri andmetega tutvumine</paragrahvPealkiri>
+				<muutmismarge>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+						<RTartikkel>1</RTartikkel>
+						<aktViide>119122012001</aktViide>
+					</avaldamismarge>
+					<joustumine>2013-01-01</joustumine>
+				</muutmismarge>
+				<loige id="para6lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Igaüks võib abieluvararegistri registrikaardile kantud andmetega tutvuda ja saada nendest väljatrükke.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para6lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Registritoimikuga võib tutvuda ja selle koosseisu kuuluvatest dokumentidest väljatrükke saada õigustatud huvi olemasolu korral. Abikaasa, notari, kohtutäituri, pankrotihalduri, kohtu ja järelevalveõigusliku asutuse õigustatud huvi eeldatakse.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para6lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Registritoimikuga tutvumise loa andmisest keeldumise kohta vormistatakse määrus tsiviilkohtumenetluse seadustiku § 59 lõike 6 kohaselt. Kui registritoimikuga tutvumise loa andmisest keeldub notar, kohaldatakse notariaadiseaduse § 41.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para6lg4">
+					<loigeNr>4</loigeNr>
+					<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Registripäevik on asutusesiseseks kasutamiseks ja sellega tutvumist ei võimaldata.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para6lg5">
+					<loigeNr>5</loigeNr>
+					<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Abieluvararegistri andmetega saab tutvuda kinnistusosakonnas, notaribüroos või vastava veebilehe kaudu. Abieluvararegistri andmetega tutvumisel notaribüroos tasutakse notari tasu notari tasu seaduse kohaselt.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para7">
+				<paragrahvNr>7</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 7.]]></kuvatavNr>
+				<paragrahvPealkiri>Kande õiguslik tähendus</paragrahvPealkiri>
+				<loige id="para7lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu -</tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para7lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu - </tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<RTaasta>2009</RTaasta>
+							<RTnr>60</RTnr>
+							<RTartikkel>395</RTartikkel>
+							<aktViide>13240237</aktViide>
+						</avaldamismarge>
+						<joustumine>2010-07-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para7lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu -</tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para7lg4">
+					<loigeNr>4</loigeNr>
+					<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kandega ei ole seotud seadusest tulenevate varaliste õiguste tekkimine, muutumine ja lõppemine abikaasade endi vahelistes suhetes.</tavatekst>
+					</sisuTekst>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para8">
+				<paragrahvNr>8</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 8.]]></kuvatavNr>
+				<paragrahvPealkiri>Töökeel</paragrahvPealkiri>
+				<loige id="para8lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Abieluvararegistrit peetakse eesti keeles.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para8lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Dokumendid, mis ei ole eesti keeles, esitatakse registripidajale koos vandetõlgi tehtud või notariaalselt kinnitatud eestikeelse tõlkega.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2013-12-23</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>123122013001</aktViide>
+						</avaldamismarge>
+						<joustumine>2014-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para9">
+				<paragrahvNr>9</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 9.]]></kuvatavNr>
+				<paragrahvPealkiri>Registri pitsat</paragrahvPealkiri>
+				<muutmismarge>
+					<tavatekst>Kehtetu -</tavatekst>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+						<RTartikkel>1</RTartikkel>
+						<aktViide>119122012001</aktViide>
+					</avaldamismarge>
+					<joustumine>2013-01-01</joustumine>
+				</muutmismarge>
+			</paragrahv>
+		</peatykk>
+		<peatykk id="ptk2">
+			<peatykkNr>2</peatykkNr>
+			<kuvatavNr><![CDATA[2. peatükk]]></kuvatavNr>
+			<peatykkPealkiri>ABIELUVARAREGISTRI SISU</peatykkPealkiri>
+			<muutmismarge>
+				<avaldamismarge>
+					<RTosa>RT I</RTosa>
+					<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+					<RTartikkel>1</RTartikkel>
+					<aktViide>119122012001</aktViide>
+				</avaldamismarge>
+				<joustumine>2013-01-01</joustumine>
+			</muutmismarge>
+			<paragrahv id="para10">
+				<paragrahvNr>10</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 10.]]></kuvatavNr>
+				<paragrahvPealkiri>Registri koosseis</paragrahvPealkiri>
+				<loige id="para10lg1">
+					<sisuTekst>
+						<tavatekst>Abieluvararegistri koosseisu kuuluvad:</tavatekst>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+								<RTartikkel>1</RTartikkel>
+								<aktViide>119122012001</aktViide>
+							</avaldamismarge>
+							<joustumine>2013-01-01</joustumine>
+						</muutmismarge>
+					</sisuTekst>
+					<alampunkt id="para10lg1p1">
+						<alampunktNr>1</alampunktNr>
+						<kuvatavNr><![CDATA[1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>registrikaart;</tavatekst>
+						</sisuTekst>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+								<RTartikkel>1</RTartikkel>
+								<aktViide>119122012001</aktViide>
+							</avaldamismarge>
+							<joustumine>2013-01-01</joustumine>
+						</muutmismarge>
+					</alampunkt>
+					<alampunkt id="para10lg1p2">
+						<alampunktNr>2</alampunktNr>
+						<kuvatavNr><![CDATA[2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>registritoimik;</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para10lg1p3">
+						<alampunktNr>3</alampunktNr>
+						<kuvatavNr><![CDATA[3)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>registripäevik.</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para11">
+				<paragrahvNr>11</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 11.]]></kuvatavNr>
+				<paragrahvPealkiri>Registrikaart</paragrahvPealkiri>
+				<loige id="para11lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kanne tehakse registrikaardile.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para11lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Registrikaartidel on unikaalne numeratsioon. Iga registrikaart saab jooksva numbri selle avamise ajalise järjekorra järgi.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para11lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Abikaasade varaliste õiguste kohta võib avada ainult ühe registrikaardi.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para12">
+				<paragrahvNr>12</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 12.]]></kuvatavNr>
+				<paragrahvPealkiri>Registritoimik</paragrahvPealkiri>
+				<loige id="para12lg1">
+					<loigeNr/>
+					<kuvatavNr/>
+					<sisuTekst>
+						<tavatekst>Registritoimikus säilitatakse kandeavaldusi, abieluvaralepinguid, kohtulahendeid ja muid kande aluseks olevaid dokumente.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para13">
+				<paragrahvNr>13</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 13.]]></kuvatavNr>
+				<paragrahvPealkiri>Registripäevik</paragrahvPealkiri>
+				<loige id="para13lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Registripäevikus registreeritakse kandeavaldus, milles on väljendatud soov kande tegemiseks, ja seaduses sätestatud juhtudel perekonnaseisuametniku või notari esitatud teade.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2012-12-29</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para13lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Registripäevikusse kantavate andmete loetelu </tavatekst>
+						<viide>
+							<kuvatavTekst><![CDATA[kehtestab justiitsminister määrusega]]></kuvatavTekst>
+							<viideURID>
+								<viideURI><![CDATA[./dyn=123122013036&id=129122012047]]></viideURI>
+							</viideURID>
+						</viide>
+						<tavatekst>.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para13lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu -</tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para14">
+				<paragrahvNr>14</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 14.]]></kuvatavNr>
+				<paragrahvPealkiri>Asenduskaart</paragrahvPealkiri>
+				<muutmismarge>
+					<tavatekst>Kehtetu -</tavatekst>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+						<RTartikkel>1</RTartikkel>
+						<aktViide>119122012001</aktViide>
+					</avaldamismarge>
+					<joustumine>2013-01-01</joustumine>
+				</muutmismarge>
+			</paragrahv>
+			<paragrahv id="para15">
+				<paragrahvNr>15</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 15.]]></kuvatavNr>
+				<paragrahvPealkiri>Tähestikuline kartoteek</paragrahvPealkiri>
+				<muutmismarge>
+					<tavatekst>Kehtetu -</tavatekst>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+						<RTartikkel>1</RTartikkel>
+						<aktViide>119122012001</aktViide>
+					</avaldamismarge>
+					<joustumine>2013-01-01</joustumine>
+				</muutmismarge>
+			</paragrahv>
+			<paragrahv id="para16">
+				<paragrahvNr>16</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 16.]]></kuvatavNr>
+				<paragrahvPealkiri>Säilitustähtaeg</paragrahvPealkiri>
+				<loige id="para16lg1">
+					<loigeNr/>
+					<kuvatavNr/>
+					<sisuTekst>
+						<tavatekst>Abieluvararegistrisse kantud andmeid ja registritoimiku dokumente säilitatakse tähtajatult.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+			</paragrahv>
+		</peatykk>
+		<peatykk id="ptk3">
+			<peatykkNr>3</peatykkNr>
+			<kuvatavNr><![CDATA[3. peatükk]]></kuvatavNr>
+			<peatykkPealkiri>REGISTRIKANDED</peatykkPealkiri>
+			<paragrahv id="para17">
+				<paragrahvNr>17</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 17.]]></kuvatavNr>
+				<paragrahvPealkiri>Registrikaardi kanded</paragrahvPealkiri>
+				<loige id="para17lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu -</tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para17lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Registrikaardile kantakse järgmised andmed:</tavatekst>
+					</sisuTekst>
+					<alampunkt id="para17lg2p1">
+						<alampunktNr>1</alampunktNr>
+						<kuvatavNr><![CDATA[1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>registrikaardi number;</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para17lg2p2">
+						<alampunktNr>2</alampunktNr>
+						<kuvatavNr><![CDATA[2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>abikaasade ees- ja perekonnanimed;</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para17lg2p3">
+						<alampunktNr>3</alampunktNr>
+						<kuvatavNr><![CDATA[3)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>mõlema abikaasa isikukood, selle puudumisel sünniaeg;</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para17lg2p4">
+						<alampunktNr>4</alampunktNr>
+						<kuvatavNr><![CDATA[4)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>kande jooksev number;</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para17lg2p5">
+						<alampunktNr>5</alampunktNr>
+						<kuvatavNr><![CDATA[5)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>seaduses sätestatud juhtudel varasuhte liik, varasuhte muutmine või lõppemine, samuti esemed või teatavasse liiki kuuluvad esemed, mis on abieluvaralepinguga tunnistatud ühisvaraks või lahusvaraks;</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para17lg2p6">
+						<alampunktNr>6</alampunktNr>
+						<kuvatavNr><![CDATA[6)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>abikaasade varaliste õiguste suhtes välisriigi seaduse kohaldamine ja viide abieluvaralepingule, millega vastav kokkulepe sõlmiti;</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para17lg2p7">
+						<alampunktNr>7</alampunktNr>
+						<kuvatavNr><![CDATA[7)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>kande alus, kande tegemise kuupäev, kande teinud isiku nimi ja ametinimetus ning märked;</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para17lg2p8">
+						<alampunktNr>8</alampunktNr>
+						<kuvatavNr><![CDATA[8)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>muud seaduses sätestatud andmed.</tavatekst>
+						</sisuTekst>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+								<RTartikkel>1</RTartikkel>
+								<aktViide>119122012001</aktViide>
+							</avaldamismarge>
+							<joustumine>2013-01-01</joustumine>
+						</muutmismarge>
+					</alampunkt>
+				</loige>
+				<loige id="para17lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu -</tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para17lg4">
+					<loigeNr>4</loigeNr>
+					<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu -</tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para18">
+				<paragrahvNr>18</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 18.]]></kuvatavNr>
+				<paragrahvPealkiri>Abikaasa andmed registrikaardil</paragrahvPealkiri>
+				<muutmismarge>
+					<tavatekst>Kehtetu -</tavatekst>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+						<RTartikkel>1</RTartikkel>
+						<aktViide>119122012001</aktViide>
+					</avaldamismarge>
+					<joustumine>2013-01-01</joustumine>
+				</muutmismarge>
+			</paragrahv>
+			<paragrahv id="para19">
+				<paragrahvNr>19</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 19.]]></kuvatavNr>
+				<paragrahvPealkiri>Avaldus kande tegemiseks</paragrahvPealkiri>
+				<loige id="para19lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kanne tehakse abikaasade notariaalselt kinnitatud avalduse või seaduses sätestatud juhtudel perekonnaseisuametniku või notari esitatud teate alusel. Abikaasade poolt tehtud avaldus võib sisalduda abieluvaralepingus.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2012-12-29</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para19lg1b1">
+					<loigeNr ylaIndeks="1">1</loigeNr>
+					<kuvatavNr><![CDATA[(1<sup>1</sup>)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kanne kustutatakse ja muudetakse abikaasade notariaalselt kinnitatud avalduse alusel. Abikaasade poolt tehtud avaldus võib sisalduda abieluvaralepingus.</tavatekst>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<RTaasta>2009</RTaasta>
+								<RTnr>60</RTnr>
+								<RTartikkel>395</RTartikkel>
+								<aktViide>13240237</aktViide>
+							</avaldamismarge>
+							<joustumine>2010-07-01</joustumine>
+						</muutmismarge>
+					</sisuTekst>
+				</loige>
+				<loige id="para19lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Ühe abikaasa avalduse alusel tehakse kanne, kui:</tavatekst>
+					</sisuTekst>
+					<alampunkt id="para19lg2p1">
+						<alampunktNr>1</alampunktNr>
+						<kuvatavNr><![CDATA[1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>kande aluseks on abieluvaraleping või jõustunud kohtuotsus;</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para19lg2p2">
+						<alampunktNr>2</alampunktNr>
+						<kuvatavNr><![CDATA[2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>abieluvaraleping on lõppenud abielu lõppemise tõttu;</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para19lg2p3">
+						<alampunktNr>3</alampunktNr>
+						<kuvatavNr><![CDATA[3)]]></kuvatavNr>
+						<muutmismarge>
+							<tavatekst>kehtetu -</tavatekst>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+								<RTartikkel>1</RTartikkel>
+								<aktViide>119122012001</aktViide>
+							</avaldamismarge>
+							<joustumine>2013-01-01</joustumine>
+						</muutmismarge>
+					</alampunkt>
+					<alampunkt id="para19lg2p4">
+						<alampunktNr>4</alampunktNr>
+						<kuvatavNr><![CDATA[4)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>parandatakse ebaõiget kannet.</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+				</loige>
+				<loige id="para19lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Avalduses peab olema väljendatud soov kande tegemiseks, andmed puudutatud isikute kohta ning millise dokumendi alusel kannet teha soovitakse. Avalduses peab olema näidatud selle registrikaardi number, millele kande tegemist taotletakse, kui registrikaart on avatud.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para19lg3b1">
+					<loigeNr ylaIndeks="1">3</loigeNr>
+					<kuvatavNr><![CDATA[(3<sup>1</sup>)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kui registripidajal on elektrooniline juurdepääs registrile, kuhu andmed käesoleva paragrahvi lõikes 3 nimetatud puudutatud isikute kohta on kantud põhiandmetena avaliku teabe seaduse tähenduses, piisab, kui kandeavaldusse märgitakse abikaasa kohta nimi ja isikukood.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para19lg4">
+					<loigeNr>4</loigeNr>
+					<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu - </tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<RTaasta>2001</RTaasta>
+							<RTnr>93</RTnr>
+							<RTartikkel>565</RTartikkel>
+							<aktViide>73269</aktViide>
+						</avaldamismarge>
+						<joustumine>2002-02-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para19lg5">
+					<loigeNr>5</loigeNr>
+					<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Avaldust, mille täitmine on seotud tingimusega, ei rahuldata. Kui avalduses soovitakse mitut kannet, võib avaldaja seada tingimuseks, et ühte kannet ei tehta teist kannet tegemata või et üks kanne tehakse enne teist.</tavatekst>
+					</sisuTekst>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para20">
+				<paragrahvNr>20</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 20.]]></kuvatavNr>
+				<paragrahvPealkiri>Avalduse esitamine ja tagasivõtmine</paragrahvPealkiri>
+				<loige id="para20lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Avalduse võib esitada abikaasa ise või tema esindaja. Avalduse esitamiseks ja tagasivõtmiseks antud volikiri peab olema notariaalselt kinnitatud. Avalduse kinnitanud notar loetakse volitatuks avaldust esitama ja tagasi võtma.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para20lg1b1">
+					<loigeNr ylaIndeks="1">1</loigeNr>
+					<kuvatavNr><![CDATA[(1<sup>1</sup>)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu -</tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2012-12-29</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para20lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kuni kandemääruse tegemiseni võib avalduse esitaja selle osaliselt või täielikult tagasi võtta. Tagasivõtmise avaldus peab olema notariaalselt kinnitatud. Notar, kes avalduse registripidajale esitas, on õigustatud seda ka tagasi võtma.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para20lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Notariaalselt kinnitatud avaldus ja avalduse esitamiseks või tagasivõtmiseks antud volikiri loetakse võrdseks digitaalallkirjastatud avalduse või volikirjaga.</tavatekst>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<RTaasta>2005</RTaasta>
+								<RTnr>57</RTnr>
+								<RTartikkel>450</RTartikkel>
+								<aktViide>955757</aktViide>
+							</avaldamismarge>
+							<joustumine>2006-01-01</joustumine>
+						</muutmismarge>
+					</sisuTekst>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para21">
+				<paragrahvNr>21</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 21.]]></kuvatavNr>
+				<paragrahvPealkiri>Kande tegemiseks vajalikud dokumendid</paragrahvPealkiri>
+				<loige id="para21lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kandeavaldusele tuleb lisada järgmised dokumendid:</tavatekst>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+								<RTartikkel>1</RTartikkel>
+								<aktViide>119122012001</aktViide>
+							</avaldamismarge>
+							<joustumine>2012-12-29</joustumine>
+						</muutmismarge>
+					</sisuTekst>
+					<alampunkt id="para21lg1p1">
+						<alampunktNr>1</alampunktNr>
+						<kuvatavNr><![CDATA[1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>abieluvaraleping;</tavatekst>
+						</sisuTekst>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+								<RTartikkel>1</RTartikkel>
+								<aktViide>119122012001</aktViide>
+							</avaldamismarge>
+							<joustumine>2012-12-29</joustumine>
+						</muutmismarge>
+					</alampunkt>
+					<alampunkt id="para21lg1p2">
+						<alampunktNr>2</alampunktNr>
+						<kuvatavNr><![CDATA[2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>jõustunud kohtulahendi ärakiri, kui kande tegemist taotletakse kohtulahendi alusel;</tavatekst>
+						</sisuTekst>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<RTaasta>2005</RTaasta>
+								<RTnr>39</RTnr>
+								<RTartikkel>308</RTartikkel>
+								<aktViide>919178</aktViide>
+							</avaldamismarge>
+							<joustumine>2006-01-01</joustumine>
+						</muutmismarge>
+					</alampunkt>
+					<alampunkt id="para21lg1p3">
+						<alampunktNr>3</alampunktNr>
+						<kuvatavNr><![CDATA[3)]]></kuvatavNr>
+						<muutmismarge>
+							<tavatekst>kehtetu - </tavatekst>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<RTaasta>2009</RTaasta>
+								<RTnr>60</RTnr>
+								<RTartikkel>395</RTartikkel>
+								<aktViide>13240237</aktViide>
+							</avaldamismarge>
+							<joustumine>2010-07-01</joustumine>
+						</muutmismarge>
+					</alampunkt>
+					<alampunkt id="para21lg1p4">
+						<alampunktNr>4</alampunktNr>
+						<kuvatavNr><![CDATA[4)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>tunnistuse või otsuse ärakiri abikaasa surma või abielu lahutamise kohta, kui kanne kustutatakse abielu lõppemise tõttu;</tavatekst>
+						</sisuTekst>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+								<RTartikkel>1</RTartikkel>
+								<aktViide>119122012001</aktViide>
+							</avaldamismarge>
+							<joustumine>2013-01-01</joustumine>
+						</muutmismarge>
+					</alampunkt>
+					<alampunkt id="para21lg1p5">
+						<alampunktNr>5</alampunktNr>
+						<kuvatavNr><![CDATA[5)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>andmed riigilõivu tasumise kohta;</tavatekst>
+						</sisuTekst>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+								<RTartikkel>1</RTartikkel>
+								<aktViide>119122012001</aktViide>
+							</avaldamismarge>
+							<joustumine>2013-01-01</joustumine>
+						</muutmismarge>
+					</alampunkt>
+					<alampunkt id="para21lg1p6">
+						<alampunktNr>6</alampunktNr>
+						<kuvatavNr><![CDATA[6)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>muud seadusest tulenevad dokumendid;</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para21lg1p6b1">
+						<alampunktNr ylaIndeks="1">6</alampunktNr>
+						<kuvatavNr><![CDATA[6<sup>1</sup>)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>perekonnaseaduse § 212 lõikes 1 nimetatud abikaasade notariaalselt tõestatud teade, kui kande tegemist taotletakse perekonnaseaduse § 212 alusel.</tavatekst>
+							<muutmismarge>
+								<avaldamismarge>
+									<RTosa>RT I</RTosa>
+									<RTaasta>2009</RTaasta>
+									<RTnr>60</RTnr>
+									<RTartikkel>395</RTartikkel>
+									<aktViide>13240237</aktViide>
+								</avaldamismarge>
+								<joustumine>2010-07-01</joustumine>
+							</muutmismarge>
+						</sisuTekst>
+					</alampunkt>
+				</loige>
+				<loige id="para21lg1b1">
+					<loigeNr ylaIndeks="1">1</loigeNr>
+					<kuvatavNr><![CDATA[(1<sup>1</sup>)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Perekonnaseisuametniku või notari esitatud teatele tuleb lisada abielu sõlminud perekonnaseisuametniku või notari digitaalallkirjastatud abiellumisavalduse ärakiri.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2012-12-29</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para21lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu - </tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<RTaasta>2009</RTaasta>
+							<RTnr>60</RTnr>
+							<RTartikkel>395</RTartikkel>
+							<aktViide>13240237</aktViide>
+						</avaldamismarge>
+						<joustumine>2010-07-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para21lg2b1">
+					<loigeNr ylaIndeks="1">2</loigeNr>
+					<kuvatavNr><![CDATA[(2<sup>1</sup>)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kui registripidajal on elektrooniline juurdepääs registrile, millest kontrollida käesoleva paragrahvi lõike 1 punktides 2 ja 4 nimetatud andmete olemasolu, ei pea nende ärakirju või väljavõtteid kandeavaldusele lisama.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para21lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Abikaasade varalistele õigustele välisriigi õiguse kohaldamise kandmisel abieluvararegistrisse on kande aluseks dokumendid, millest nähtub välisriigi õiguse kohaldamise lubatavus rahvusvahelise eraõiguse seaduse § 58 lõike 1 järgi. Kandes tuleb märkida, millise riigi õigust abikaasade varalistele õigustele kohaldatakse.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para21lg4">
+					<loigeNr>4</loigeNr>
+					<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu -</tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para21lg5">
+					<loigeNr>5</loigeNr>
+					<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kande parandamine toimub käesoleva seaduse §-s 37 sätestatud korras.</tavatekst>
+					</sisuTekst>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para22">
+				<paragrahvNr>22</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 22.]]></kuvatavNr>
+				<paragrahvPealkiri>Dokumentide vastuvõtmine</paragrahvPealkiri>
+				<loige id="para22lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Avalduse esitaja on kohustatud esitama kande aluseks olevad dokumendid.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para22lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Registripidajale esitatakse dokumendi originaal või kinnitatud ärakiri.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para22lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu -</tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para22lg4">
+					<loigeNr>4</loigeNr>
+					<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu -</tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para22lg5">
+					<loigeNr>5</loigeNr>
+					<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Avaldus registreeritakse kohe registripäevikus ja nummerdatakse vastavalt avalduse saabumise ajale.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para22lg6">
+					<loigeNr>6</loigeNr>
+					<kuvatavNr><![CDATA[(6)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Samal päeval posti või e-posti teel saabunud avaldused loetakse üheaegselt registripidajale esitatuks ja registreeritakse registripäevikus sellel päeval saabunud avaldustest viimastena. Vastuvõtmise kellaajaks märgitakse 17.00.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para22lg6b1">
+					<loigeNr ylaIndeks="1">6</loigeNr>
+					<kuvatavNr><![CDATA[(6<sup>1</sup>)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kui digitaalallkirjastatud avalduse saab esitada elektroonilisse abieluvararegistri infosüsteemi, registreeritakse avaldus ja selle laekumise aeg registripäevikus automaatselt ning nummerdatakse selle saabumise aja järgi.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para22lg6b2">
+					<loigeNr ylaIndeks="2">6</loigeNr>
+					<kuvatavNr><![CDATA[(6<sup>2</sup>)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kui digitaalallkirjastatud avalduse saab esitada elektroonilise abieluvararegistri infosüsteemi, ei või avaldust esitada e-posti teel. Sellisel juhul tagastab registripidaja e-postiga esitatud avalduse seda registripäevikusse kandmata, märkides ära tagastamise põhjuse.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para22lg7">
+					<loigeNr>7</loigeNr>
+					<kuvatavNr><![CDATA[(7)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Avalduse vastuvõtmisel väljastab registripidaja avaldaja soovil tõendi, mis kinnitab avalduse vastuvõtmist.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para22lg8">
+					<loigeNr>8</loigeNr>
+					<kuvatavNr><![CDATA[(8)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kuni kandemääruse tegemiseni võib avalduse esitanud isik esitada registripidajale täiendavaid dokumente.</tavatekst>
+					</sisuTekst>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para22b1">
+				<paragrahvNr ylaIndeks="1">22</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 22<sup>1</sup>.]]></kuvatavNr>
+				<paragrahvPealkiri>Märge sissetulnud kandeavalduse kohta</paragrahvPealkiri>
+				<loige id="para22b1lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kandeavalduse registreerimisel kantakse registrikaardile viide esitatud avaldusele (edaspidi <i>plomm</i>). Plomm koosneb kandeavalduse registreerimise numbrist ja aastaarvust.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para22b1lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Plomm peab olema nähtav nii registrikaardiga tutvumisel kui ka registrikaardi väljatrükil.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para22b1lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Plomm kustutatakse pärast registrikande tegemist või eitava kandemääruse jõustumist.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para23">
+				<paragrahvNr>23</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 23.]]></kuvatavNr>
+				<muutmismarge>
+					<tavatekst>Kehtetu - </tavatekst>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<RTaasta>2006</RTaasta>
+						<RTnr>7</RTnr>
+						<RTartikkel>42</RTartikkel>
+						<aktViide>989550</aktViide>
+					</avaldamismarge>
+					<joustumine>2006-02-04</joustumine>
+				</muutmismarge>
+			</paragrahv>
+			<paragrahv id="para24">
+				<paragrahvNr>24</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 24.]]></kuvatavNr>
+				<paragrahvPealkiri>Kandeavalduse läbivaatamine</paragrahvPealkiri>
+				<loige id="para24lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kandeavalduse läbivaatamisel kontrollib kande tegemiseks õigustatud isik 14 päeva jooksul avalduse vastuvõtmise päevast arvates, kas:</tavatekst>
+					</sisuTekst>
+					<alampunkt id="para24lg1p1">
+						<alampunktNr>1</alampunktNr>
+						<kuvatavNr><![CDATA[1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>nõutavad vormikohased dokumendid on esitatud;</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para24lg1p2">
+						<alampunktNr>2</alampunktNr>
+						<kuvatavNr><![CDATA[2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>kande tegemine on seaduse alusel lubatud.</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+				</loige>
+				<loige id="para24lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kui esineb kande tegemist takistav puudus või puudub vormikohane dokument, määrab kande tegemiseks õigustatud isik tähtaja puuduste kõrvaldamiseks. Pärast kõigi puuduste kõrvaldamist ja vormikohaste dokumentide esitamist peab kande tegemiseks õigustatud isik kandeavalduse 14 päeva jooksul läbi vaatama.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para24lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kandeavaldus jäetakse rahuldamata, kui:</tavatekst>
+					</sisuTekst>
+					<alampunkt id="para24lg3p1">
+						<alampunktNr>1</alampunktNr>
+						<kuvatavNr><![CDATA[1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>määratud tähtaja jooksul ei ole kõrvaldatud kande tegemist takistavat puudust või esitatud vormikohast dokumenti;</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para24lg3p2">
+						<alampunktNr>2</alampunktNr>
+						<kuvatavNr><![CDATA[2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>isik ei ole õigustatud nõudma kande tegemist;</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para24lg3p3">
+						<alampunktNr>3</alampunktNr>
+						<kuvatavNr><![CDATA[3)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>abieluvaralepingu sõlminud isikud ei ole abielus;</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para24lg3p4">
+						<alampunktNr>4</alampunktNr>
+						<kuvatavNr><![CDATA[4)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>esitatud dokumentidest ei selgu avaldaja soov või soovitava kande õiguslik alus;</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para24lg3p5">
+						<alampunktNr>5</alampunktNr>
+						<kuvatavNr><![CDATA[5)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>kande tegemine on keelatud seadusega või on vastuolus heade kommetega;</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para24lg3p6">
+						<alampunktNr>6</alampunktNr>
+						<kuvatavNr><![CDATA[6)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>esineb muu takistus, mille tõttu ei ole võimalik kannet teha.</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+				</loige>
+				<loige id="para24lg4">
+					<loigeNr>4</loigeNr>
+					<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kui kandeavaldus kuulub rahuldamisele, teeb kande tegemiseks õigustatud isik registrikaardile kande. Sellisel juhul asendab kanne kandemäärust.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para25">
+				<paragrahvNr>25</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 25.]]></kuvatavNr>
+				<muutmismarge>
+					<tavatekst>Kehtetu - </tavatekst>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<RTaasta>2006</RTaasta>
+						<RTnr>7</RTnr>
+						<RTartikkel>42</RTartikkel>
+						<aktViide>989550</aktViide>
+					</avaldamismarge>
+					<joustumine>2006-02-04</joustumine>
+				</muutmismarge>
+			</paragrahv>
+			<paragrahv id="para26">
+				<paragrahvNr>26</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 26.]]></kuvatavNr>
+				<paragrahvPealkiri>Kande tekst</paragrahvPealkiri>
+				<muutmismarge>
+					<tavatekst>Kehtetu -</tavatekst>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+						<RTartikkel>1</RTartikkel>
+						<aktViide>119122012001</aktViide>
+					</avaldamismarge>
+					<joustumine>2013-01-01</joustumine>
+				</muutmismarge>
+			</paragrahv>
+			<paragrahv id="para27">
+				<paragrahvNr>27</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 27.]]></kuvatavNr>
+				<paragrahvPealkiri>Kande tegemine ja jõustumine</paragrahvPealkiri>
+				<loige id="para27lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Registrikaardi kanded nummerdatakse nende tegemise järjekorras. Kui kaardile tehakse mitu kannet, tehakse need avalduste esitamise ajalises järjekorras.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para27lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kande tekst peab olema loetav ja üheselt mõistetav. Kandes võib kasutada üksnes üldtuntud lühendeid.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para27lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kandele tuleb lisada kande teinud isikut identifitseeriv teave. Kanne ja identifitseeriv teave salvestatakse elektroonilise allkirjaga.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para27lg4">
+					<loigeNr>4</loigeNr>
+					<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kanne jõustub selle allkirjastamisel.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para27b1">
+				<paragrahvNr ylaIndeks="1">27</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 27<sup>1</sup>.]]></kuvatavNr>
+				<paragrahvPealkiri>Kandemääruse sisu</paragrahvPealkiri>
+				<loige id="para27b1lg1">
+					<loigeNr/>
+					<kuvatavNr/>
+					<sisuTekst>
+						<tavatekst>Kandemäärus peab sisaldama järgmisi andmeid:</tavatekst>
+					</sisuTekst>
+					<alampunkt id="para27b1lg1p1">
+						<alampunktNr>1</alampunktNr>
+						<kuvatavNr><![CDATA[1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>kinnistusosakonna nimetus;</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para27b1lg1p2">
+						<alampunktNr>2</alampunktNr>
+						<kuvatavNr><![CDATA[2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>määruse tegemise aeg ja koht;</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para27b1lg1p3">
+						<alampunktNr>3</alampunktNr>
+						<kuvatavNr><![CDATA[3)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>menetluse number;</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para27b1lg1p4">
+						<alampunktNr>4</alampunktNr>
+						<kuvatavNr><![CDATA[4)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>avalduse esitaja nimi, samuti avalduse esitanud perekonnaseisuametniku või notari nimi juhul, kui kandeavalduse esitas perekonnaseisuametnik või notar;</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para27b1lg1p5">
+						<alampunktNr>5</alampunktNr>
+						<kuvatavNr><![CDATA[5)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>määruse põhistus ja õiguslik alus;</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para27b1lg1p6">
+						<alampunktNr>6</alampunktNr>
+						<kuvatavNr><![CDATA[6)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>kandemääruse peale edasikaebamise kord ja tähtaeg;</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para27b1lg1p7">
+						<alampunktNr>7</alampunktNr>
+						<kuvatavNr><![CDATA[7)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>määruse teinud isiku nimi ja ametinimetus.</tavatekst>
+						</sisuTekst>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+								<RTartikkel>1</RTartikkel>
+								<aktViide>119122012001</aktViide>
+							</avaldamismarge>
+							<joustumine>2013-01-01</joustumine>
+						</muutmismarge>
+					</alampunkt>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para28">
+				<paragrahvNr>28</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 28.]]></kuvatavNr>
+				<paragrahvPealkiri>Mitme avalduse lahendamine</paragrahvPealkiri>
+				<loige id="para28lg1">
+					<sisuTekst>
+						<tavatekst>Kui kande tegemiseks on esitatud mitu avaldust, siis rahuldatakse need vastavalt registreerimise järjekorrale registripäevikus, kui avaldused esitanud isikud ei lepi kokku teisiti.</tavatekst>
+					</sisuTekst>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para29">
+				<paragrahvNr>29</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 29.]]></kuvatavNr>
+				<paragrahvPealkiri>Kandest ja kandemäärusest teatamine</paragrahvPealkiri>
+				<loige id="para29lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Pärast kande tegemist saadetakse mõlemale abikaasale ja neid registriasjas esindanud notarile registrikaardi väljatrükk käesoleva seaduse § 1 lõike 2 alusel kehtestatud määruses ettenähtud korras.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para29lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kandemäärus, millega kandeavaldus jäetakse rahuldamata või millega määratakse puuduste kõrvaldamiseks pikem tähtaeg kui kuus kuud, toimetatakse kätte mõlemale abikaasale ja neid registriasjas esindanud notarile, samuti avalduse esitanud perekonnaseisuasutusele või notarile tsiviilkohtumenetluse seadustikus sätestatud korras.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para29lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Määruse edastamise või kättetoimetamise kohta tehakse registripäevikusse märge.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para30">
+				<paragrahvNr>30</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 30.]]></kuvatavNr>
+				<muutmismarge>
+					<tavatekst>Kehtetu - </tavatekst>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<RTaasta>2009</RTaasta>
+						<RTnr>60</RTnr>
+						<RTartikkel>395</RTartikkel>
+						<aktViide>13240237</aktViide>
+					</avaldamismarge>
+					<joustumine>2010-07-01</joustumine>
+				</muutmismarge>
+			</paragrahv>
+			<paragrahv id="para31">
+				<paragrahvNr>31</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 31.]]></kuvatavNr>
+				<paragrahvPealkiri>Abiregistrikaart</paragrahvPealkiri>
+				<muutmismarge>
+					<tavatekst>Kehtetu -</tavatekst>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+						<RTartikkel>1</RTartikkel>
+						<aktViide>119122012001</aktViide>
+					</avaldamismarge>
+					<joustumine>2013-01-01</joustumine>
+				</muutmismarge>
+			</paragrahv>
+			<paragrahv id="para32">
+				<paragrahvNr>32</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 32.]]></kuvatavNr>
+				<paragrahvPealkiri>Kande muutmine ja kustutamine</paragrahvPealkiri>
+				<loige id="para32lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu -</tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para32lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu -</tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para32lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kanne muudetakse senise kande kustutamise ja uue kande tegemise teel. Muudetud kannet asendav uus kanne saab senise kande järjekoha.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para32lg4">
+					<loigeNr>4</loigeNr>
+					<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kande kustutamiseks tehakse kustutuskanne.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para32lg5">
+					<loigeNr>5</loigeNr>
+					<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Muudetud või kustutatud kannet peab olema võimalik taasesitada.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para33">
+				<paragrahvNr>33</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 33.]]></kuvatavNr>
+				<paragrahvPealkiri>Dokumentide ja lõivu tagastamine</paragrahvPealkiri>
+				<muutmismarge>
+					<tavatekst>Kehtetu -</tavatekst>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+						<RTartikkel>1</RTartikkel>
+						<aktViide>119122012001</aktViide>
+					</avaldamismarge>
+					<joustumine>2013-01-01</joustumine>
+				</muutmismarge>
+			</paragrahv>
+			<paragrahv id="para34">
+				<paragrahvNr>34</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 34.]]></kuvatavNr>
+				<paragrahvPealkiri>Registrikaardi sulgemine</paragrahvPealkiri>
+				<loige id="para34lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu -</tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para34lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu -</tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para34lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kui registrikaardil ei ole kehtivaid kandeid, tehakse sellele märge sulgemise kohta. Sulgemise märkes näidatakse sulgemise alus ja kuupäev ning märke teinud isiku nimi ja ametinimetus.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para34lg4">
+					<loigeNr>4</loigeNr>
+					<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Suletud registrikaarti peab olema võimalik taasesitada.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para35">
+				<paragrahvNr>35</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 35.]]></kuvatavNr>
+				<paragrahvPealkiri>Ärakirjade tegemine</paragrahvPealkiri>
+				<loige id="para35lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Abieluvararegistri andmetest tehakse ärakirju ja väljatrükke käesoleva seaduse § 6 kohaselt.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para35lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Ärakiri ja väljatrükk peavad sisaldama registrikaardi kõiki kehtivaid kandeid. Ärakiri ja väljatrükk peavad sisaldama kustutatud kannet, kui seda on taotletud või kui seda on vaja teise kande mõistmiseks.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para35lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kui registripidajale on esitatud kandeavaldus, mille kohta ei ole kandemäärust veel tehtud, peavad ärakiri ja väljatrükk sisaldama viidet kandeavaldusele, mis on kantud registripäevikusse.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para35lg4">
+					<loigeNr>4</loigeNr>
+					<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Isiku nõudel annab registripidaja tõendi, et kannet ei ole muudetud või et kannet või järgmisi kandeid registris ei ole.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para35lg5">
+					<loigeNr>5</loigeNr>
+					<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu -</tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para36">
+				<paragrahvNr>36</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 36.]]></kuvatavNr>
+				<paragrahvPealkiri>Menetluse kulud</paragrahvPealkiri>
+				<muutmismarge>
+					<tavatekst>Kehtetu -</tavatekst>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+						<RTartikkel>1</RTartikkel>
+						<aktViide>119122012001</aktViide>
+					</avaldamismarge>
+					<joustumine>2013-01-01</joustumine>
+				</muutmismarge>
+			</paragrahv>
+		</peatykk>
+		<peatykk id="ptk4">
+			<peatykkNr>4</peatykkNr>
+			<kuvatavNr><![CDATA[4. peatükk]]></kuvatavNr>
+			<peatykkPealkiri>KANNETE PARANDAMINE JA KAEBUSTE ESITAMINE</peatykkPealkiri>
+			<paragrahv id="para37">
+				<paragrahvNr>37</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 37.]]></kuvatavNr>
+				<paragrahvPealkiri>Kande parandamine</paragrahvPealkiri>
+				<loige id="para37lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu -</tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para37lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu -</tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para37lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu -</tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para37lg4">
+					<loigeNr>4</loigeNr>
+					<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu -</tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para37lg5">
+					<loigeNr>5</loigeNr>
+					<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu -</tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para37lg6">
+					<loigeNr>6</loigeNr>
+					<kuvatavNr><![CDATA[(6)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu -</tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para37lg7">
+					<loigeNr>7</loigeNr>
+					<kuvatavNr><![CDATA[(7)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu -</tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para37lg8">
+					<loigeNr>8</loigeNr>
+					<kuvatavNr><![CDATA[(8)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kanne parandatakse juhul, kui see on:</tavatekst>
+					</sisuTekst>
+					<alampunkt id="para37lg8p1">
+						<alampunktNr>1</alampunktNr>
+						<kuvatavNr><![CDATA[1)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>tehtud ebaõige kandemääruse alusel;</tavatekst>
+						</sisuTekst>
+					</alampunkt>
+					<alampunkt id="para37lg8p2">
+						<alampunktNr>2</alampunktNr>
+						<kuvatavNr><![CDATA[2)]]></kuvatavNr>
+						<sisuTekst>
+							<tavatekst>muutunud ebaõigeks abieluvararegistrisse kantud isiku isikuandmete muutumise tõttu.</tavatekst>
+						</sisuTekst>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+								<RTartikkel>1</RTartikkel>
+								<aktViide>119122012001</aktViide>
+							</avaldamismarge>
+							<joustumine>2013-01-01</joustumine>
+						</muutmismarge>
+					</alampunkt>
+				</loige>
+				<loige id="para37lg9">
+					<loigeNr>9</loigeNr>
+					<kuvatavNr><![CDATA[(9)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Ebaõige kande parandab registripidaja omal algatusel või huvitatud isiku avalduse alusel.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para37lg10">
+					<loigeNr>10</loigeNr>
+					<kuvatavNr><![CDATA[(10)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Ebaõige kandemääruse alusel tehtud kanne parandatakse kandeavalduse alusel. Kande parandamiseks on vajalik puudutatud isiku nõusolek.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para37lg11">
+					<loigeNr>11</loigeNr>
+					<kuvatavNr><![CDATA[(11)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Abieluvararegistrisse kantud isikuandmete muutumise korral parandab registripidaja kande ametiülesande korras selle andmekogu andmete alusel, millesse need andmed on kantud põhiandmetena avaliku teabe seaduse tähenduses. Tsiviilkohtumenetluse seadustiku § 597 lõikes 4 sätestatut ei kohaldata.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para37lg12">
+					<loigeNr>12</loigeNr>
+					<kuvatavNr><![CDATA[(12)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Selliste isikuandmete muutumisel, mis ei ole põhiandmetena kantud Eesti andmekogusse, parandab registripidaja kande sellekohase teate ja vastava registri kinnitatud väljavõtte või muu usaldusväärse tõendi alusel.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para37lg13">
+					<loigeNr>13</loigeNr>
+					<kuvatavNr><![CDATA[(13)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Välisriigis väljaantud dokument peab olema legaliseeritud või kinnitatud tunnistusega (<i>apostille</i>’ga), kui välisleping ei sätesta teisiti.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para37lg14">
+					<loigeNr>14</loigeNr>
+					<kuvatavNr><![CDATA[(14)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Õigusliku tähenduseta kirjavea ja muu ilmse eksimuse parandab registripidaja ametiülesande korras. Tsiviilkohtumenetluse seadustiku § 597 lõikes 4 sätestatut ei kohaldata.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para37lg15">
+					<loigeNr>15</loigeNr>
+					<kuvatavNr><![CDATA[(15)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Tehniliste võimaluste olemasolu korral parandatakse käesoleva paragrahvi lõikes 11 nimetatud kanne automaatselt.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para38">
+				<paragrahvNr>38</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 38.]]></kuvatavNr>
+				<paragrahvPealkiri>Kande parandamise viis</paragrahvPealkiri>
+				<muutmismarge>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+						<RTartikkel>1</RTartikkel>
+						<aktViide>119122012001</aktViide>
+					</avaldamismarge>
+					<joustumine>2013-01-01</joustumine>
+				</muutmismarge>
+				<loige id="para38lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu -</tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para38lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu -</tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para38lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu -</tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para38lg4">
+					<loigeNr>4</loigeNr>
+					<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+					<muutmismarge>
+						<tavatekst>Kehtetu -</tavatekst>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para38lg5">
+					<loigeNr>5</loigeNr>
+					<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kanne parandatakse senise kande kustutamise ja uue kande tegemise teel. Uues kandes märgitakse, et see asendab eelmist.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para38lg6">
+					<loigeNr>6</loigeNr>
+					<kuvatavNr><![CDATA[(6)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Senist kannet asendav uus kanne saab senise kande järjekoha.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para39">
+				<paragrahvNr kehtiv="0">39</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 38<sup>1</sup>.]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst> – </tavatekst>
+				</sisuTekst>
+			</paragrahv>
+			<paragrahv id="para40">
+				<paragrahvNr kehtiv="0">40</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 40. ]]></kuvatavNr>
+				<muutmismarge>
+					<tavatekst>Kehtetud - </tavatekst>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<RTaasta>2005</RTaasta>
+						<RTnr>39</RTnr>
+						<RTartikkel>308</RTartikkel>
+						<aktViide>919178</aktViide>
+					</avaldamismarge>
+					<joustumine>2006-01-01</joustumine>
+				</muutmismarge>
+			</paragrahv>
+		</peatykk>
+		<peatykk id="ptk5">
+			<peatykkNr>5</peatykkNr>
+			<kuvatavNr><![CDATA[5. peatükk]]></kuvatavNr>
+			<peatykkPealkiri>RAKENDUSSÄTTED</peatykkPealkiri>
+			<paragrahv id="para41">
+				<paragrahvNr>41</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 41.]]></kuvatavNr>
+				<paragrahvPealkiri>Seaduse jõustumine</paragrahvPealkiri>
+				<loige id="para41lg1">
+					<sisuTekst>
+						<tavatekst>Käesolev seadus jõustub 1996. aasta 1. septembril.</tavatekst>
+					</sisuTekst>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para41b1">
+				<paragrahvNr ylaIndeks="1">41</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 41<sup>1</sup>.]]></kuvatavNr>
+				<paragrahvPealkiri>Kandemääruse tegemise erisus</paragrahvPealkiri>
+				<muutmismarge>
+					<tavatekst>Kehtetu -</tavatekst>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+						<RTartikkel>1</RTartikkel>
+						<aktViide>119122012001</aktViide>
+					</avaldamismarge>
+					<joustumine>2013-01-01</joustumine>
+				</muutmismarge>
+			</paragrahv>
+			<paragrahv id="para42">
+				<paragrahvNr>42</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 42.]]></kuvatavNr>
+				<paragrahvPealkiri>Registripidamine arvutis</paragrahvPealkiri>
+				<loige id="para42lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<viide>
+							<kuvatavTekst><![CDATA[Justiitsministri määramisel]]></kuvatavTekst>
+							<viideURID>
+								<viideURI><![CDATA[./dyn=123122013036&id=129122012047]]></viideURI>
+							</viideURID>
+						</viide>
+						<tavatekst> võib abieluvararegistrit pidada arvutis.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para42lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kui abieluvararegistrit peetakse arvutis, tuleb kehtivad kanded säilitada väljatrükkidena.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+				<loige id="para42lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Arvutis peetava abieluvararegistri kanne on tehtud, kui see on salvestatud abieluvararegistri kannetele määratud andmebaasis.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para42b1">
+				<paragrahvNr ylaIndeks="1">42</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 42<sup>1</sup>.]]></kuvatavNr>
+				<paragrahvPealkiri>Üleminek elektroonilisele abieluvararegistrile</paragrahvPealkiri>
+				<loige id="para42b1lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Elektroonilisele abieluvararegistrile minnakse üle registrikaartide ja registritoimikute kaupa.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para42b1lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Andmekandjale salvestatud registrikaardi numbrile lisatakse seda unikaalseks muutev tunnus.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para42b1lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Elektrooniline registrikaart asendab paberregistrikaarti, kui kõik registrikaardi kanded on selleks ettenähtud andmekandjale salvestatud ning elektroonilisele registrikaardile on tehtud vastavasisuline märge.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para42b1lg4">
+					<loigeNr>4</loigeNr>
+					<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Elektroonilistele registrikaartidele ja -toimikutele ülemineku korra </tavatekst>
+						<viide>
+							<kuvatavTekst><![CDATA[kehtestab justiitsminister määrusega]]></kuvatavTekst>
+							<viideURID>
+								<viideURI><![CDATA[./dyn=123122013036&id=129122012047]]></viideURI>
+							</viideURID>
+						</viide>
+						<tavatekst>.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para42b2">
+				<paragrahvNr ylaIndeks="2">42</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 42<sup>2</sup>.]]></kuvatavNr>
+				<paragrahvPealkiri>Registrikaardi ümberkirjutamine ametiülesande korras</paragrahvPealkiri>
+				<loige id="para42b2lg1">
+					<loigeNr>1</loigeNr>
+					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Paberregistrikaardi, sealhulgas suletud registrikaardi kohta avatakse ametiülesande korras elektrooniline registrikaart ja paberregistrikaardile tehtud kanne, sealhulgas kustutatud kanne, kirjutatakse elektroonilisse abieluvararegistrisse ümber.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para42b2lg2">
+					<loigeNr>2</loigeNr>
+					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Andmeid abikaasa sünninime ja elukoha kohta elektroonilisse abieluvararegistrisse ei kanta.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para42b2lg3">
+					<loigeNr>3</loigeNr>
+					<kuvatavNr><![CDATA[(3)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kui registrikaardile tehtud kande mõistmine on raskendatud, võib kande tegemiseks õigustatud isik selle ümberkirjutamisel ümber sõnastada selle sisu muutmata. Paberregistrikaardile kantud viite asemel kantakse elektroonilisele registrikaardile abikaasade seadusest või lepingust tulenevates varalistes õigustes tehtud muudatused.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para42b2lg4">
+					<loigeNr>4</loigeNr>
+					<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kande ümberkirjutamisel lisatakse kandele märkus selle ümberkirjutamise kohta.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para42b2lg5">
+					<loigeNr>5</loigeNr>
+					<kuvatavNr><![CDATA[(5)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Kui paberregistrikaart on avatud mõlema abikaasa kohta, kirjutatakse ümber ainult üks registrikaart. Ümberkirjutatud registrikaardile kantakse märkus selle kohta, et ümber on kirjutatud ainult üks registrikaart, ning märgitakse selle registrikaardi number, mida ümber ei kirjutatud.</tavatekst>
+					</sisuTekst>
+				</loige>
+				<loige id="para42b2lg6">
+					<loigeNr>6</loigeNr>
+					<kuvatavNr><![CDATA[(6)]]></kuvatavNr>
+					<sisuTekst>
+						<tavatekst>Registrikaartide ümberkirjutamise korra </tavatekst>
+						<viide>
+							<kuvatavTekst><![CDATA[kehtestab justiitsminister määrusega]]></kuvatavTekst>
+							<viideURID>
+								<viideURI><![CDATA[./dyn=123122013036&id=129122012047]]></viideURI>
+							</viideURID>
+						</viide>
+						<tavatekst>.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2012-12-29</joustumine>
+					</muutmismarge>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para42b3">
+				<paragrahvNr ylaIndeks="3">42</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 42<sup>3</sup>.]]></kuvatavNr>
+				<paragrahvPealkiri>Kandeavalduste menetlemine</paragrahvPealkiri>
+				<loige id="para42b3lg1">
+					<loigeNr/>
+					<kuvatavNr/>
+					<sisuTekst>
+						<tavatekst>Enne 2013. aasta 1. jaanuari esitatud kandeavaldus, mille kohta ei ole 2013. aasta 1. jaanuariks tehtud abieluvararegistrisse kannet või koostatud kandemäärust, vaadatakse läbi 14 päeva jooksul käesoleva seaduse jõustumisest arvates.</tavatekst>
+					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+							<RTartikkel>1</RTartikkel>
+							<aktViide>119122012001</aktViide>
+						</avaldamismarge>
+						<joustumine>2013-01-01</joustumine>
+					</muutmismarge>
+				</loige>
+			</paragrahv>
+			<paragrahv id="para43">
+				<paragrahvNr>43</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 43.]]></kuvatavNr>
+				<muutmismarge>
+					<tavatekst>Kehtetu - </tavatekst>
+					<avaldamismarge>
+						<RTosa>RT I</RTosa>
+						<RTaasta>1996</RTaasta>
+						<RTnr>51</RTnr>
+						<RTartikkel>967</RTartikkel>
+						<aktViide>31293</aktViide>
+					</avaldamismarge>
+					<joustumine>1996-07-29</joustumine>
+				</muutmismarge>
+			</paragrahv>
+			<paragrahv id="para44">
+				<paragrahvNr kehtiv="0">44</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 44.]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst> – </tavatekst>
+				</sisuTekst>
+			</paragrahv>
+			<paragrahv id="para45">
+				<paragrahvNr kehtiv="0">45</paragrahvNr>
+				<kuvatavNr><![CDATA[§ 45. ]]></kuvatavNr>
+				<sisuTekst>
+					<tavatekst>[Käesolevast tekstist välja jäetud.]</tavatekst>
+				</sisuTekst>
+			</paragrahv>
+		</peatykk>
+	</sisu>
+</oigusakt>
