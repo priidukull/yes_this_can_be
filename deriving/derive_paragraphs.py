@@ -1,5 +1,5 @@
-from helpers import statute_xml_helper
 from app.models import statute_xml
+from helpers import statute_xml_helper
 from app.models.paragraph import Paragraph
 
 

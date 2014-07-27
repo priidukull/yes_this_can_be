@@ -1,10 +1,7 @@
-from db_connection import DbConnection
+from flask import Flask
 
-app = DbConnection().app
+app = Flask(__name__)
 app.config.from_object('config')
-db = DbConnection().db
-engine = DbConnection().engine
-conn = DbConnection().conn
 
 from app import views, models
 

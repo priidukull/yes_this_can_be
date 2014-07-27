@@ -1,7 +1,9 @@
 import pytest
+
 from app.models.paragraph import Paragraph
 from app.models.statute import Statute
 from test.test_models.prepations import DB
+
 
 class DB(DB):
     def begin(self, name):
@@ -28,7 +30,7 @@ class TestClass(object):
     def test_get_paragraphs_from_two_pg_numbers(self):
         actual = self._paragraph_mdl.get_paragraphs([{"statute_id": 44, "pg_number": 11}])
 
-        assert 11 == actual[0]["pg_number"]
+        assert 11 == actual[0].pg_number
 
     def test_paragraphs_from_two_statute_ids(self):
         statutes = [{"id": 43, "name": "foo", "short_name": "f"}]
@@ -38,7 +40,7 @@ class TestClass(object):
 
         actual = self._paragraph_mdl.get_paragraphs([{"statute_id": 43, "pg_number": 11}])
 
-        assert 11 == actual[0]["pg_number"] and 43 == actual[0]["statute_id"]
+        assert 11 == actual[0].pg_number and 43 == actual[0].statute_id
 
     def test_get_paragraphs_from_two_statute_ids_when_more_than_one_paragraphs_correspond_to_the_query(self):
         paragraphs = [{"pg_header": "foobar", "pg_number": 11, "pg_xml": "<xml>foobar<xml>", "statute_id": 44}]
@@ -48,6 +50,9 @@ class TestClass(object):
             self._paragraph_mdl.get_paragraphs([{"statute_id": 44, "pg_number": 11}])
 
     def test_get_paragraphs_from_two_statute_ids_when_there_are_more_than_one_reference(self):
-        actual = self._paragraph_mdl.get_paragraphs([{"statute_id": 43, "pg_number": 11}, {"statute_id": 43, "pg_number": 12}])
+        paragraphs = [{"pg_header": "foobar", "pg_number": 12, "pg_xml": "<xml>foobar<xml>", "statute_id": 44}]
+        self._paragraph_mdl.insert_many(paragraphs)
+
+        actual = self._paragraph_mdl.get_paragraphs([{"statute_id": 44, "pg_number": 11}, {"statute_id": 44, "pg_number": 12}])
 
         assert 2 == len(actual)

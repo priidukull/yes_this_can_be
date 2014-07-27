@@ -1,10 +1,13 @@
-from sqlalchemy import Table, select, or_, func
-from app.models.model import Model
+from sqlalchemy import Table, select, func, MetaData
+from db_connection import DbConnection
 
 
-class Statute(Model):
+class Statute(object):
     def __init__(self):
         super(Statute, self).__init__()
+        self._metadata = MetaData()
+        self._engine = DbConnection().engine
+        self._conn = DbConnection().conn
         self._tbl = Table("statute", self._metadata, autoload=True, autoload_with=self._engine)
         self._insert = self._tbl.insert()
 

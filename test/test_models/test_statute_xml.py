@@ -1,12 +1,11 @@
 import pytest
-from sqlalchemy import select, MetaData, ForeignKeyConstraint, Table
-from sqlalchemy.engine import reflection
-from sqlalchemy.sql.ddl import DropConstraint
+from sqlalchemy import select
 
 from app.models.model import Model
 from app.models.statute import Statute
 from app.models.statute_xml import StatuteXml
 from test.test_models.prepations import DB
+
 
 class DB(DB):
     def begin(self, name):

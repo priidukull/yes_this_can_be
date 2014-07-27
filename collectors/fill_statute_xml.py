@@ -1,7 +1,8 @@
 import logging
 
 from external import statute_crawler
-from app.models import statute, statute_xml
+from app.models import statute_xml
+from app.models import statute
 
 
 class FillStatuteXml(object):

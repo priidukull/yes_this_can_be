@@ -1,16 +1,16 @@
 {% extends "base.html" %}
 {% block content %}
-<h1>Hi, Priidu!</h1>
-Insert your query here:
-<form action="/" method="Post">
-    <div><p>{{text_field}}</p></div>
-    <input type=submit value=Submit>
-    {% if paragraphs %}
-        {% for pg in paragraphs %}
-            <div>
-                {{pg.header}}
-            </div>
-        {% endfor %}
-    {% endif %}
-</form>
+    <h1>Hi, Priidu!</h1>
+    Insert your query here:
+    <form action="/" method="Post">
+        <div><p>{{text_field}}</p></div>
+        <input type=submit value=Submit>
+        {% if paragraphs %}
+            {% for pg in paragraphs %}
+                <div>
+                    {{pg.header}}
+                </div>
+            {% endfor %}
+        {% endif %}
+    </form>
 {% endblock %}
