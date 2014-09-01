@@ -1,7 +1,6 @@
 from sqlalchemy import Table, BigInteger, Column, Unicode, Integer, UnicodeText, DateTime, text, \
     ForeignKey, MetaData
 from sqlalchemy.ext.declarative import declarative_base
-
 from db_connection import DbConnection
 
 
@@ -16,7 +15,6 @@ class Paragraph(Base):
         self._tbl = Table("paragraph", self._metadata, autoload=True, autoload_with=self._engine)
         self._insert = self._tbl.insert()
         self._session = DbConnection().Session()
-
 
     __tablename__ = "paragraph"
     id = Column(BigInteger, primary_key=True)

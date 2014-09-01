@@ -1,10 +1,10 @@
 import pytest
 from sqlalchemy import select
 
-from app.models.model import Model
 from app.models.statute import Statute
 from app.models.statute_xml import StatuteXml
 from test.test_models.prepations import DB
+from db_connection import DbConnection
 
 
 class DB(DB):
@@ -30,7 +30,7 @@ class TestClass(object):
     def test_insert(self):
         StatuteXml().insert(url="url_foo", xml="xml_foo", statute_id=1)
 
-        actual = Model()._conn.execute(select([StatuteXml()._tbl])).fetchone()
+        actual = DbConnection().engine.execute(select([StatuteXml()._tbl])).fetchone()
         assert actual
 
     def test_get_by_statute_ids(self):

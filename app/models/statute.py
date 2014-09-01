@@ -19,4 +19,7 @@ class Statute(object):
         sql = select([self._tbl]).where(func.lower(self._tbl.c.short_name) == query)
         return self._engine.execute(sql).fetchone()
 
+    def get_all(self):
+        query = select([self._tbl])
+        return self._engine.execute(query).fetchall()
 

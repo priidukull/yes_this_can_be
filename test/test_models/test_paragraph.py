@@ -5,7 +5,7 @@ from app.models.statute import Statute
 from test.test_models.prepations import DB
 
 
-class DB(DB):
+class DbParagraphs(DB):
     def begin(self, name):
         self._paragraph_mdl = Paragraph()
         self.intransaction.append(name)
@@ -16,7 +16,7 @@ class DB(DB):
 
 @pytest.fixture(scope="class")
 def db():
-    return DB()
+    return DbParagraphs()
 
 class TestClass(object):
     @pytest.fixture(autouse=True)
