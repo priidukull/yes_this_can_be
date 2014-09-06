@@ -1,5 +1,5 @@
 from sqlalchemy import Table, BigInteger, Column, Unicode, Integer, UnicodeText, DateTime, text, \
-    ForeignKey, MetaData
+    ForeignKey, MetaData, select
 from sqlalchemy.ext.declarative import declarative_base
 from db_connection import DbConnection
 
@@ -37,3 +37,7 @@ class Paragraph(Base):
             if len(pgs) == 1:
                 paragraphs.append(pgs[0])
         return paragraphs
+
+    def get_all(self):
+        query = select([self._tbl])
+        return self._engine.execute(query).fetchall()
