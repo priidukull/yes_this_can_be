@@ -1,3 +1,3 @@
-Project Structure:
+#Project Structure:
 
-Deriving - using data inside the DB to derive new data.Here
+Deriving - using data inside the DB to derive new data.
