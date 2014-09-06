@@ -8,10 +8,10 @@ from app.forms import Form
 @app.route('/', methods = ['GET', 'POST'])
 @app.route('/index', methods = ['GET', 'POST'])
 def index():
-    text_field = Form().text_field
-    query = request.form.get("text_field")
+    query_field = Form().query_field
+    query = request.form.get("query_field")
     paragraphs = ParagraphReferenceProcessor().get_referred_paragraphs(query=query)
     return render_template('index.html',
-                           text_field=text_field,
+                           query_field=query_field,
                            paragraphs=paragraphs)
 
