@@ -16,6 +16,5 @@ class DeriveSections():
             self._section_mdl.insert_many(sections=sections)
 
 
-
 if __name__ == "__main__":
     DeriveSections().derive_all()

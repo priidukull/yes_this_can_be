@@ -24,7 +24,8 @@
                     {% endif %}
                     {% for sc in pg.sections %}
                         <p>
-                            ({{sc.sc_number}}) {{sc.sc_xml}}
+                            {% if sc.sc_number %}({{sc.sc_number}}) {% endif %}
+                            {{sc.sc_xml}}
                         </p>
                     {% endfor %}
                 </div>
