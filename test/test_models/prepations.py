@@ -1,6 +1,6 @@
 from os import path
 
-from db_connection import DbConnection
+from singletons import DbConnection
 
 class DB(object):
     def __init__(self):

@@ -16,3 +16,4 @@ class DbConnection(metaclass=Singleton):
         self.engine = sqlalchemy.create_engine(config.SQLALCHEMY_DATABASE_URI)
         self.conn = self.engine.connect()
         self.Session = sessionmaker(bind=self.engine)
+

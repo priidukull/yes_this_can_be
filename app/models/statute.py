@@ -1,5 +1,5 @@
 from sqlalchemy import Table, select, func, MetaData
-from db_connection import DbConnection
+from singletons import DbConnection
 
 
 class Statute(object):

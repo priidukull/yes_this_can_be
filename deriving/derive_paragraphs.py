@@ -1,11 +1,11 @@
 from app.models import statute_xml
 from helpers import statute_xml_helper
-from app.models.paragraph import Paragraph
+from app.models.paragraph import ParagraphRepo
 
 
 class DeriveParagraphs():
     def __init__(self):
-        self._paragraph_mdl = Paragraph()
+        self._paragraph_mdl = ParagraphRepo()
         self._statute_xml_helper = statute_xml_helper.Helper()
         self._statute_xml_mdl = statute_xml.StatuteXml()
 

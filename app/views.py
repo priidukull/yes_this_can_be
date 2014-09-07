@@ -5,8 +5,8 @@ from app.controller.pg_reference_processor import ParagraphReferenceProcessor
 from app.forms import Form
 
 
-@app.route('/', methods = ['GET', 'POST'])
-@app.route('/index', methods = ['GET', 'POST'])
+@app.route('/', methods=['GET', 'POST'])
+@app.route('/index', methods=['GET', 'POST'])
 def index():
     query_field = Form().query_field
     query = request.form.get("query_field")

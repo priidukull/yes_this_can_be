@@ -1,13 +1,13 @@
 import pytest
 
-from app.models.paragraph import Paragraph
+from app.models.paragraph import ParagraphRepo
 from app.models.statute import Statute
 from test.test_models.prepations import DB
 
 
 class DbParagraphs(DB):
     def begin(self, name):
-        self._paragraph_mdl = Paragraph()
+        self._paragraph_mdl = ParagraphRepo()
         self.intransaction.append(name)
         statutes = [{"id": 44, "name": "Elektroonilise side seadus", "short_name": "ESS"}]
         Statute().insert_many(statutes=statutes)
@@ -25,7 +25,7 @@ class TestClass(object):
         request.addfinalizer(db.rollback)
 
     def setup(self):
-        self._paragraph_mdl = Paragraph()
+        self._paragraph_mdl = ParagraphRepo()
 
     def test_get_paragraphs_from_two_pg_numbers(self):
         actual = self._paragraph_mdl.get_paragraphs([{"statute_id": 44, "pg_number": 11}])

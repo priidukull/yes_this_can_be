@@ -19,12 +19,14 @@
                 <div>
                     {% if pg.pg_header %}
                         <p class="pg_header">
-                            {{pg.pg_header}}
+                            § {{pg.pg_number}}. {{pg.pg_header}}
                         </p>
                     {% endif %}
-                    <p>
-                        {{pg.pg_xml}}
-                    </p>
+                    {% for sc in pg.sections %}
+                        <p>
+                            ({{sc.sc_number}}) {{sc.sc_xml}}
+                        </p>
+                    {% endfor %}
                 </div>
             {% endfor %}
         {% endif %}

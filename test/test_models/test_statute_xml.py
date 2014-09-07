@@ -4,7 +4,7 @@ from sqlalchemy import select
 from app.models.statute import Statute
 from app.models.statute_xml import StatuteXml
 from test.test_models.prepations import DB
-from db_connection import DbConnection
+from singletons import DbConnection
 
 
 class DB(DB):
