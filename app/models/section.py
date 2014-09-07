@@ -1,9 +1,10 @@
-from sqlalchemy import MetaData, Table, Column, BigInteger, Integer, text, DateTime, ForeignKey
-from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy import MetaData, Table, Column, BigInteger, Integer, text, DateTime, ForeignKey, UnicodeText
+from sqlalchemy.orm import relationship, backref
+from app.models import Base
+from app.models.paragraph import Paragraph
 from db_connection import DbConnection
 
 
-Base = declarative_base()
 
 class Section(Base):
     def __init__(self):
@@ -16,10 +17,14 @@ class Section(Base):
 
     __tablename__ = "section"
     id = Column(BigInteger, primary_key=True)
+    sc_xml = Column(UnicodeText, nullable=False)
     sc_number = Column(Integer, nullable=False)
     sc_index_number = Column(Integer, nullable=False)
     updated_at = Column(DateTime, nullable=False, server_default=text("NOW()"))
-    paragraph = Column(BigInteger, ForeignKey("paragraph.id"))
+    paragraph_id = Column(BigInteger, ForeignKey("paragraph.id"))
+    paragraph = relationship(Paragraph, backref=backref("sections"))
+
 
     def insert_many(self, sections):
-        self._conn.execute(self._insert, sections)
+        if sections:
+            self._conn.execute(self._insert, sections)

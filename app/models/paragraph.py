@@ -1,10 +1,9 @@
 from sqlalchemy import Table, BigInteger, Column, Unicode, Integer, UnicodeText, DateTime, text, \
     ForeignKey, MetaData, select
-from sqlalchemy.ext.declarative import declarative_base
+from app.models import Base
 from db_connection import DbConnection
 
 
-Base = declarative_base()
 
 class Paragraph(Base):
     def __init__(self):
