@@ -25,3 +25,12 @@ class Section(Base):
     sc_index_number = Column(Integer, nullable=False)
     updated_at = Column(DateTime, nullable=False, server_default=text("NOW()"))
     paragraph_id = Column(BigInteger, ForeignKey("paragraph.id"))
+
+
+class Point(Base):
+    __tablename__ = "point"
+    id = Column(BigInteger, primary_key=True)
+    pt_text = Column(UnicodeText, nullable=False)
+    pt_number = Column(Integer, nullable=False)
+    updated_at = Column(DateTime, nullable=False, server_default=text("NOW()"))
+    section_id = Column(BigInteger, ForeignKey("section.id"))

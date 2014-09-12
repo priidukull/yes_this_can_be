@@ -1,4 +1,4 @@
-from sqlalchemy import MetaData, Table
+from sqlalchemy import MetaData, Table, select
 from app.models.models import Section
 from singletons import DbConnection
 
@@ -15,3 +15,7 @@ class SectionRepo(Section):
     def insert_many(self, sections):
         if sections:
             self._conn.execute(self._insert, sections)
+
+    def get_all(self):
+        query = select([self._tbl])
+        return self._engine.execute(query).fetchall()
