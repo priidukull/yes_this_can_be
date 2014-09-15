@@ -42,13 +42,6 @@ class TestClass(object):
 
         assert 11 == actual[0].pg_number and 43 == actual[0].statute_id
 
-    def test_get_paragraphs_from_two_statute_ids_when_more_than_one_paragraphs_correspond_to_the_query(self):
-        paragraphs = [{"pg_header": "foobar", "pg_number": 11, "pg_xml": "<xml>foobar<xml>", "statute_id": 44}]
-        self._paragraph_mdl.insert_many(paragraphs)
-
-        with pytest.raises(Exception):
-            self._paragraph_mdl.get_paragraphs([{"statute_id": 44, "pg_number": 11}])
-
     def test_get_paragraphs_from_two_statute_ids_when_there_are_more_than_one_reference(self):
         paragraphs = [{"pg_header": "foobar", "pg_number": 12, "pg_xml": "<xml>foobar<xml>", "statute_id": 44}]
         self._paragraph_mdl.insert_many(paragraphs)

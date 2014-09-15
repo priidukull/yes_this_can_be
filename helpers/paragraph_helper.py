@@ -17,7 +17,7 @@ class Helper():
             sc_number = int(re.search("\((.*)\)", sc_number_raw).group(1))
             sections.append({"paragraph_id": paragraph_id, "sc_number": sc_number, "sc_xml": sc_xml})
         if not sections:
-            sc_xml = pg_xml.split(row["pg_header"])[1]
+            sc_xml = pg_xml.split(row["pg_header"], 1)[1]
             sections.append({"paragraph_id": paragraph_id, "sc_number": 0, "sc_xml": sc_xml})
         return sections
 

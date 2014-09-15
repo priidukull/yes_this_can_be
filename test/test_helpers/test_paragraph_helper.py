@@ -8,3 +8,11 @@ class TestClass():
         sections = Helper().parse_sections(row=row)
 
         assert sections
+
+    def test_parse_sections_split_by_first_occurence(self):
+        row = {"id": 101, "pg_header": "Omandireformi õigustatud subjektid",
+               "pg_xml": "\n4\n§ 4.\nOmandireformi õigustatud subjektid\n\n\nOmandireformi õigustatud subjektid on isikud, \n\n\n"}
+
+        sections = Helper().parse_sections(row=row)
+
+        assert "Omandireformi õigustatud subjektid on isikud" in sections[0]["sc_xml"]

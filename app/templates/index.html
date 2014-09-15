@@ -25,7 +25,15 @@
                     {% for sc in pg.sections %}
                         <p>
                             {% if sc.sc_number %}({{sc.sc_number}}) {% endif %}
-                            {{sc.sc_xml}}
+                            {% for pt in sc.points %}
+                                {% if pt.pt_number %}
+                                    <p>
+                                        {{pt.pt_number}}) {{pt.pt_text}}
+                                    </p>
+                                {% else %}
+                                    {{pt.pt_text}}
+                                {% endif %}
+                            {% endfor %}
                         </p>
                     {% endfor %}
                 </div>

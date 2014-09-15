@@ -25,6 +25,7 @@ class Section(Base):
     sc_index_number = Column(Integer, nullable=False)
     updated_at = Column(DateTime, nullable=False, server_default=text("NOW()"))
     paragraph_id = Column(BigInteger, ForeignKey("paragraph.id"))
+    points = relationship("Point", backref="section")
 
 
 class Point(Base):

@@ -1,3 +1,4 @@
+from flask import logging
 from sqlalchemy import Table, MetaData, select
 from app.models.models import Paragraph
 from singletons import DbConnection
@@ -15,18 +16,18 @@ class ParagraphRepo(Paragraph):
         self._session = DbConnection().Session()
 
     def insert_many(self, paragraphs):
-        self._conn.execute(self._insert, paragraphs)
+        for pg in paragraphs:
+            self._conn.execute(self._insert, [pg])
 
     def get_paragraphs(self, references):
         paragraphs = []
         for ref in references:
-            pgs = self._session.query(ParagraphRepo).filter(ParagraphRepo.pg_number == ref["pg_number"], ParagraphRepo.statute_id == ref["statute_id"]).all()
-            if len(pgs) > 1:
-                raise Exception("Too many paragraphs correspond to that query.")
-            if len(pgs) == 1:
-                paragraphs.append(pgs[0])
+            pg = self._session.query(ParagraphRepo).filter(ParagraphRepo.pg_number == ref["pg_number"], ParagraphRepo.statute_id == ref["statute_id"]).first()
+            paragraphs.append(pg)
         return paragraphs
 
-    def get_all(self):
+    def get_all(self, paragraph_ids):
         query = select([self._tbl])
+        if paragraph_ids:
+            query = query.where(self._tbl.c.paragraph_id.in_(paragraph_ids))
         return self._engine.execute(query).fetchall()
