@@ -29,5 +29,5 @@ class ParagraphRepo(Paragraph):
     def get_all(self, paragraph_ids):
         query = select([self._tbl])
         if paragraph_ids:
-            query = query.where(self._tbl.c.paragraph_id.in_(paragraph_ids))
+            query = query.where(self._tbl.c.id.in_(paragraph_ids))
         return self._engine.execute(query).fetchall()

@@ -16,3 +16,12 @@ class TestClass():
         sections = Helper().parse_sections(row=row)
 
         assert "Omandireformi õigustatud subjektid on isikud" in sections[0]["sc_xml"]
+
+    def test_parse_sections_when_one_of_section_numbers_has_index(self):
+        row = {"id": 101, "pg_header": "Header of paragraph",
+               "pg_xml": "\n4\n§ 4.\nHeader of paragraph\n\n1\n(1)\n\nFirst section\n\n1\n(1<sup>1</sup>)\n\nFirst section with index\n\n\n"}
+
+        sections = Helper().parse_sections(row=row)
+
+        assert [{'sc_number': 1, 'paragraph_id': 101, 'sc_index_number': 0, 'sc_xml': 'First section\n'},
+                {'sc_number': 1, 'paragraph_id': 101, 'sc_index_number': 1, 'sc_xml': 'First section with index\n\n\n'}] == sections
