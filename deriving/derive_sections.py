@@ -8,15 +8,15 @@ from helpers.paragraph_helper import Helper
 class DeriveSections():
     def __init__(self):
         self._paragraph_helper = Helper()
-        self._paragraph_mdl = ParagraphRepo()
-        self._section_mdl = SectionRepo()
+        self._paragraph_repo = ParagraphRepo()
+        self._section_repo = SectionRepo()
 
     def derive_all(self, paragraph_ids=None):
         logging.info("COMPLETED deriving sections")
-        paragraphs = self._paragraph_mdl.get_all(paragraph_ids=paragraph_ids)
+        paragraphs = self._paragraph_repo.get_all(paragraph_ids=paragraph_ids)
         for row in paragraphs:
             sections = self._paragraph_helper.parse_sections(row=row)
-            self._section_mdl.insert_many(sections=sections)
+            self._section_repo.insert_many(sections=sections)
             logging.info("COMPLETED deriving sections")
 
 

@@ -8,3 +8,10 @@ class TestClass():
         points = Helper().parse_points(row)
 
         assert 2 == points.__len__()
+
+    def test_parse_pt_numbers_raw(self):
+        sc_xml = "\n\n\n10\n10<sup>1</sup>) \n\n"
+
+        pt_numbers_raw = Helper()._parse_pt_numbers_raw(sc_xml=sc_xml)
+
+        assert pt_numbers_raw

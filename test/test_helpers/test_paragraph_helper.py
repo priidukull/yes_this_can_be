@@ -25,3 +25,8 @@ class TestClass():
 
         assert [{'sc_number': 1, 'paragraph_id': 101, 'sc_index_number': 0, 'sc_xml': 'First section\n'},
                 {'sc_number': 1, 'paragraph_id': 101, 'sc_index_number': 1, 'sc_xml': 'First section with index\n\n\n'}] == sections
+
+    def test_parse_sc_numbers_raw(self):
+        sc_numbers_raw = Helper()._parse_sc_numbers_raw(pg_xml="\n10\n(10)\n\n")
+
+        assert sc_numbers_raw

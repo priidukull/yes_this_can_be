@@ -16,6 +16,8 @@ class SectionRepo(Section):
         if sections:
             self._conn.execute(self._insert, sections)
 
-    def get_all(self):
+    def get_all(self, section_ids=None):
         query = select([self._tbl])
+        if section_ids:
+            query = query.where(self._tbl.c.id.in_(section_ids))
         return self._engine.execute(query).fetchall()
