@@ -5,6 +5,14 @@ from sqlalchemy.orm import relationship
 Base = declarative_base()
 
 
+class Statute(Base):
+    __tablename__ = "statute"
+    id = Column(BigInteger, primary_key=True)
+    name = Column(Unicode, nullable=False)
+    short_name = Column(Unicode, nullable=False)
+    paragraphs = relationship("Paragraph", backref="statute")
+
+
 class Paragraph(Base):
     __tablename__ = "paragraph"
     id = Column(BigInteger, primary_key=True)

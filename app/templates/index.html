@@ -23,6 +23,7 @@
             {% for pg in paragraphs %}
                 <div>
                     {% if pg.pg_header %}
+                        {{pg.statute.name}} ({{pg.statute.short_name}})
                         <p class="pg_header">
                             § {{pg.pg_number}}. {{pg.pg_header}}
                         </p>
