@@ -1,5 +1,6 @@
 #!flask/bin/python-3.4
 from app import app
+from config import HOST, PORT
 
 
-app.run(host="0.0.0.0", port=80)
+app.run(host=HOST, port=PORT)
