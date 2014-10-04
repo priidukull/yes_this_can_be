@@ -34,4 +34,4 @@ class Helper():
     return re.findall("\\n\d+\\n\(\d+<.+>\)\\n\\n|\\n\d+\\n\(\d+\)\\n\\n", pg_xml)
 
   def _not_poers_pg_9_sc_9(self, sc_xml):
-    return "[Lõike 9 sõnastus alates 01.01.2004]" not in sc_xml
+    return "[Lõike 9 sõnastus kuni 31.12.2003]" not in sc_xml
