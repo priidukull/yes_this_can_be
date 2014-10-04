@@ -20,7 +20,8 @@ class Helper():
             except AttributeError:
                 sc_number = int(re.search("\((\d+)<sup>\d+</sup>\)", sc_number_raw).group(1))
                 sc_index_number = int(re.search("\(\d+<sup>(\d+)</sup>\)", sc_number_raw).group(1))
-                sections.append({"paragraph_id": paragraph_id, "sc_number": sc_number, "sc_xml": sc_xml, "sc_index_number": sc_index_number})
+                if "[Lõike 9 sõnastus alates 01.01.2004]" not in sc_xml:
+                  sections.append({"paragraph_id": paragraph_id, "sc_number": sc_number, "sc_xml": sc_xml, "sc_index_number": sc_index_number})
         if not sections:
             sc_xml = pg_xml.split(row["pg_header"], 1)[1]
             sections.append({"paragraph_id": paragraph_id, "sc_number": 0, "sc_xml": sc_xml})
