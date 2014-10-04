@@ -18,15 +18,22 @@
 			</avaldamismarge>
 			<joustumine>1996-09-01</joustumine>
 		</vastuvoetud>
-
-		<avaldamismarge><RTosa>RT I</RTosa><avaldamineKuupaev>2013-12-23</avaldamineKuupaev><RTaasta>2013</RTaasta><RTartikkel>36</RTartikkel><aktViide>123122013036</aktViide></avaldamismarge><kehtivus>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<avaldamineKuupaev>2013-12-23+02:00</avaldamineKuupaev>
+			<RTaasta>2013</RTaasta>
+			<RTartikkel>36</RTartikkel>
+			<aktViide>123122013036</aktViide>
+		</avaldamismarge>
+		<kehtivus>
 			<kehtivuseAlgus>2014-01-01+02:00</kehtivuseAlgus>
-		<kehtivuseLopp>2014-12-31+02:00</kehtivuseLopp></kehtivus>
+			<kehtivuseLopp>2014-12-31+02:00</kehtivuseLopp>
+		</kehtivus>
 		<skeemiNimi>tyviseadus_1_10.02.2010.xsd</skeemiNimi>
 		<globaalID>123122013036</globaalID>
-		<metaandmedVersioon>12</metaandmedVersioon>
-		<metaandmedVersioonKuupaev>2014-06-20</metaandmedVersioonKuupaev>
-		<metaandmedVersioonPohjustaja>Maret Mauer</metaandmedVersioonPohjustaja>
+		<metaandmedVersioon>13</metaandmedVersioon>
+		<metaandmedVersioonKuupaev>2014-09-25</metaandmedVersioonKuupaev>
+		<metaandmedVersioonPohjustaja>Ene Kasesalu</metaandmedVersioonPohjustaja>
 		<terviktekstiGrupiID>161919</terviktekstiGrupiID>
 	</metaandmed>
 	<aktinimi>
@@ -211,6 +218,17 @@
 		<joustumine>2014-01-01</joustumine>
 		<tavatekst>, osaliselt 01.01.2015 ja 01.01.2020</tavatekst>
 	</muutmismarge>
+	<muutmismarge>
+		<aktikuupaev>2014-06-19</aktikuupaev>
+		<avaldamismarge>
+			<RTosa>RT I</RTosa>
+			<avaldamineKuupaev>2014-06-29</avaldamineKuupaev>
+			<RTartikkel>109</RTartikkel>
+			<aktViide>129062014109</aktViide>
+		</avaldamismarge>
+		<joustumine>2014-07-01</joustumine>
+		<tavatekst>, Vabariigi Valitsuse seaduse § 107³ lõike 4 alusel asendatud ministrite ametinimetused alates 2014. aasta 1. juulil jõus olevast redaktsioonist.</tavatekst>
+	</muutmismarge>
 	<sisu>
 		<peatykk id="ptk1">
 			<peatykkNr>1</peatykkNr>
@@ -247,37 +265,57 @@
 					<loigeNr>2</loigeNr>
 					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
 					<sisuTekst>
-						<tavatekst>Abieluvararegistri pidamise ja andmetöötluse korra </tavatekst>
+						<tavatekst>Abieluvararegistri pidamise ja andmetöötluse korra kehtestab </tavatekst>
 						<viide>
-							<kuvatavTekst><![CDATA[kehtestab justiitsminister määrusega]]></kuvatavTekst>
+							<kuvatavTekst><![CDATA[valdkonna eest vastutav minister]]></kuvatavTekst>
 							<viideURID>
 								<viideURI><![CDATA[./dyn=123122013036&id=129122012047]]></viideURI>
 							</viideURID>
 						</viide>
-						<tavatekst>.</tavatekst>
+						<tavatekst> määrusega.</tavatekst>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+								<RTartikkel>1</RTartikkel>
+								<aktViide>119122012001</aktViide>
+							</avaldamismarge>
+							<joustumine>2013-01-01</joustumine>
+						</muutmismarge>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2014-06-29</avaldamineKuupaev>
+								<RTartikkel>109</RTartikkel>
+								<aktViide>129062014109</aktViide>
+							</avaldamismarge>
+							<joustumine>2014-07-01</joustumine>
+							<tavatekst>, Vabariigi Valitsuse seaduse § 107³ lõike 4 alusel asendatud alates 2014. aasta 1. juulist „justiitsminister” sõnadega „valdkonna eest vastutav minister”.</tavatekst>
+						</muutmismarge>
 					</sisuTekst>
-					<muutmismarge>
-						<avaldamismarge>
-							<RTosa>RT I</RTosa>
-							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
-							<RTartikkel>1</RTartikkel>
-							<aktViide>119122012001</aktViide>
-						</avaldamismarge>
-						<joustumine>2013-01-01</joustumine>
-					</muutmismarge>
 				</loige>
 				<loige id="para1lg2b1">
 					<loigeNr ylaIndeks="1">2</loigeNr>
 					<kuvatavNr><![CDATA[(2<sup>1</sup>)]]></kuvatavNr>
 					<sisuTekst>
 						<viide>
-							<kuvatavTekst><![CDATA[Justiitsminister võib määrusega kehtestada]]></kuvatavTekst>
+							<kuvatavTekst><![CDATA[Valdkonna eest vastutav minister]]></kuvatavTekst>
 							<viideURID>
 								<viideURI><![CDATA[./dyn=123122013036&id=112072012009]]></viideURI>
 							</viideURID>
 						</viide>
-						<tavatekst> arvutiandmetöötluseks vajalikud nõuded registripidajale esitatavate dokumentide vormi ja esitamise tehniliste tingimuste kohta.</tavatekst>
+						<tavatekst> võib määrusega kehtestada arvutiandmetöötluseks vajalikud nõuded registripidajale esitatavate dokumentide vormi ja esitamise tehniliste tingimuste kohta.</tavatekst>
 					</sisuTekst>
+					<muutmismarge>
+						<avaldamismarge>
+							<RTosa>RT I</RTosa>
+							<avaldamineKuupaev>2014-06-29</avaldamineKuupaev>
+							<RTartikkel>109</RTartikkel>
+							<aktViide>129062014109</aktViide>
+						</avaldamismarge>
+						<joustumine>2014-07-01</joustumine>
+						<tavatekst>, Vabariigi Valitsuse seaduse § 107³ lõike 4 alusel asendatud alates 2014. aasta 1. juulist „Justiitsminister” sõnadega „Valdkonna eest vastutav minister”.</tavatekst>
+					</muutmismarge>
 				</loige>
 				<loige id="para1lg3">
 					<loigeNr>3</loigeNr>
@@ -831,24 +869,34 @@
 					<loigeNr>2</loigeNr>
 					<kuvatavNr><![CDATA[(2)]]></kuvatavNr>
 					<sisuTekst>
-						<tavatekst>Registripäevikusse kantavate andmete loetelu </tavatekst>
+						<tavatekst>Registripäevikusse kantavate andmete loetelu kehtestab </tavatekst>
 						<viide>
-							<kuvatavTekst><![CDATA[kehtestab justiitsminister määrusega]]></kuvatavTekst>
+							<kuvatavTekst><![CDATA[valdkonna eest vastutav minister]]></kuvatavTekst>
 							<viideURID>
 								<viideURI><![CDATA[./dyn=123122013036&id=129122012047]]></viideURI>
 							</viideURID>
 						</viide>
-						<tavatekst>.</tavatekst>
+						<tavatekst> määrusega.</tavatekst>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+								<RTartikkel>1</RTartikkel>
+								<aktViide>119122012001</aktViide>
+							</avaldamismarge>
+							<joustumine>2013-01-01</joustumine>
+						</muutmismarge>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2014-06-29</avaldamineKuupaev>
+								<RTartikkel>109</RTartikkel>
+								<aktViide>129062014109</aktViide>
+							</avaldamismarge>
+							<joustumine>2014-07-01</joustumine>
+							<tavatekst>, Vabariigi Valitsuse seaduse § 107³ lõike 4 alusel asendatud alates 2014. aasta 1. juulist „justiitsminister” sõnadega „valdkonna eest vastutav minister”.</tavatekst>
+						</muutmismarge>
 					</sisuTekst>
-					<muutmismarge>
-						<avaldamismarge>
-							<RTosa>RT I</RTosa>
-							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
-							<RTartikkel>1</RTartikkel>
-							<aktViide>119122012001</aktViide>
-						</avaldamismarge>
-						<joustumine>2013-01-01</joustumine>
-					</muutmismarge>
 				</loige>
 				<loige id="para13lg3">
 					<loigeNr>3</loigeNr>
@@ -2601,22 +2649,32 @@
 					<kuvatavNr><![CDATA[(1)]]></kuvatavNr>
 					<sisuTekst>
 						<viide>
-							<kuvatavTekst><![CDATA[Justiitsministri määramisel]]></kuvatavTekst>
+							<kuvatavTekst><![CDATA[Valdkonna eest vastutava ministri]]></kuvatavTekst>
 							<viideURID>
 								<viideURI><![CDATA[./dyn=123122013036&id=129122012047]]></viideURI>
 							</viideURID>
 						</viide>
-						<tavatekst> võib abieluvararegistrit pidada arvutis.</tavatekst>
+						<tavatekst> määramisel võib abieluvararegistrit pidada arvutis.</tavatekst>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+								<RTartikkel>1</RTartikkel>
+								<aktViide>119122012001</aktViide>
+							</avaldamismarge>
+							<joustumine>2013-01-01</joustumine>
+						</muutmismarge>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2014-06-29</avaldamineKuupaev>
+								<RTartikkel>109</RTartikkel>
+								<aktViide>129062014109</aktViide>
+							</avaldamismarge>
+							<joustumine>2014-07-01</joustumine>
+							<tavatekst>, Vabariigi Valitsuse seaduse § 107³ lõike 4 alusel asendatud alates 2014. aasta 1. juulist „Justiitsministri” sõnadega „Valdkonna eest vastutava ministri”.</tavatekst>
+						</muutmismarge>
 					</sisuTekst>
-					<muutmismarge>
-						<avaldamismarge>
-							<RTosa>RT I</RTosa>
-							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
-							<RTartikkel>1</RTartikkel>
-							<aktViide>119122012001</aktViide>
-						</avaldamismarge>
-						<joustumine>2013-01-01</joustumine>
-					</muutmismarge>
 				</loige>
 				<loige id="para42lg2">
 					<loigeNr>2</loigeNr>
@@ -2680,24 +2738,34 @@
 					<loigeNr>4</loigeNr>
 					<kuvatavNr><![CDATA[(4)]]></kuvatavNr>
 					<sisuTekst>
-						<tavatekst>Elektroonilistele registrikaartidele ja -toimikutele ülemineku korra </tavatekst>
+						<tavatekst>Elektroonilistele registrikaartidele ja -toimikutele ülemineku korra kehtestab </tavatekst>
 						<viide>
-							<kuvatavTekst><![CDATA[kehtestab justiitsminister määrusega]]></kuvatavTekst>
+							<kuvatavTekst><![CDATA[valdkonna eest vastutav minister]]></kuvatavTekst>
 							<viideURID>
 								<viideURI><![CDATA[./dyn=123122013036&id=129122012047]]></viideURI>
 							</viideURID>
 						</viide>
-						<tavatekst>.</tavatekst>
+						<tavatekst> määrusega.</tavatekst>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+								<RTartikkel>1</RTartikkel>
+								<aktViide>119122012001</aktViide>
+							</avaldamismarge>
+							<joustumine>2013-01-01</joustumine>
+						</muutmismarge>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2014-06-29</avaldamineKuupaev>
+								<RTartikkel>109</RTartikkel>
+								<aktViide>129062014109</aktViide>
+							</avaldamismarge>
+							<joustumine>2014-07-01</joustumine>
+							<tavatekst>, Vabariigi Valitsuse seaduse § 107³ lõike 4 alusel asendatud alates 2014. aasta 1. juulist „justiitsminister” sõnadega „valdkonna eest vastutav minister”.</tavatekst>
+						</muutmismarge>
 					</sisuTekst>
-					<muutmismarge>
-						<avaldamismarge>
-							<RTosa>RT I</RTosa>
-							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
-							<RTartikkel>1</RTartikkel>
-							<aktViide>119122012001</aktViide>
-						</avaldamismarge>
-						<joustumine>2013-01-01</joustumine>
-					</muutmismarge>
 				</loige>
 			</paragrahv>
 			<paragrahv id="para42b2">
@@ -2743,24 +2811,34 @@
 					<loigeNr>6</loigeNr>
 					<kuvatavNr><![CDATA[(6)]]></kuvatavNr>
 					<sisuTekst>
-						<tavatekst>Registrikaartide ümberkirjutamise korra </tavatekst>
+						<tavatekst>Registrikaartide ümberkirjutamise korra kehtestab </tavatekst>
 						<viide>
-							<kuvatavTekst><![CDATA[kehtestab justiitsminister määrusega]]></kuvatavTekst>
+							<kuvatavTekst><![CDATA[valdkonna eest vastutav minister]]></kuvatavTekst>
 							<viideURID>
 								<viideURI><![CDATA[./dyn=123122013036&id=129122012047]]></viideURI>
 							</viideURID>
 						</viide>
-						<tavatekst>.</tavatekst>
+						<tavatekst> määrusega.</tavatekst>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
+								<RTartikkel>1</RTartikkel>
+								<aktViide>119122012001</aktViide>
+							</avaldamismarge>
+							<joustumine>2012-12-29</joustumine>
+						</muutmismarge>
+						<muutmismarge>
+							<avaldamismarge>
+								<RTosa>RT I</RTosa>
+								<avaldamineKuupaev>2014-06-29</avaldamineKuupaev>
+								<RTartikkel>109</RTartikkel>
+								<aktViide>129062014109</aktViide>
+							</avaldamismarge>
+							<joustumine>2014-07-01</joustumine>
+							<tavatekst>, Vabariigi Valitsuse seaduse § 107³ lõike 4 alusel asendatud alates 2014. aasta 1. juulist „justiitsminister” sõnadega „valdkonna eest vastutav minister”.</tavatekst>
+						</muutmismarge>
 					</sisuTekst>
-					<muutmismarge>
-						<avaldamismarge>
-							<RTosa>RT I</RTosa>
-							<avaldamineKuupaev>2012-12-19</avaldamineKuupaev>
-							<RTartikkel>1</RTartikkel>
-							<aktViide>119122012001</aktViide>
-						</avaldamismarge>
-						<joustumine>2012-12-29</joustumine>
-					</muutmismarge>
 				</loige>
 			</paragrahv>
 			<paragrahv id="para42b3">

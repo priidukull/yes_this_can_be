@@ -1,49 +1,48 @@
 {% extends "base.html" %}
 {% block content %}
-    <div class="container">
+  <div class="container">
     <form action="/" method="Post">
-        <div class="form-group">
-            <div>
-                <p>
-                    <big>Sisesta paragrahvi viide, et näha paragrahvi tervikteksti seisuga 25. september 2014.</big>
-                </p>
-                <p>
-                    Vihje: kasuta <a href="https://www.riigiteataja.ee/lyhendid.html">õigusaktide ametlikke lühendeid</a>.
-                </p>
-            </div>
-            <div>
-                <p>
-                    {{query_field(class="form-control", rows="4")}}
-                </p>
-                <input type=submit value="Näita paragrahvide sisu">
-            </div>
+      <div class="form-group">
+        <div>
+          <p>
+            <big>Sisesta paragrahvi viide, et näha paragrahvi tervikteksti seisuga 25. september 2014.</big>
+          </p>
+
+          <p>
+            Vihje: kasuta <a href="https://www.riigiteataja.ee/lyhendid.html">õigusaktide ametlikke lühendeid</a>.
+          </p>
         </div>
+        <div>
+          <p>
+            {{query_field(class="form-control", rows="4")}}
+          </p>
+          <input type=submit value="Näita paragrahvide sisu">
+        </div>
+      </div>
     </form>
-        {% if paragraphs %}
-            {% for pg in paragraphs %}
-                <div>
-                    {% if pg.pg_header %}
-                        {{pg.statute.name}} ({{pg.statute.short_name}})
-                        <p class="pg_header">
-                            § {{pg.pg_number}}. {{pg.pg_header}}
-                        </p>
-                    {% endif %}
-                    {% for sc in pg.sections %}
-                        <p>
-                            {% if sc.sc_number %}({{sc.sc_number}}) {% endif %}
-                            {% for pt in sc.points %}
-                                {% if pt.pt_number %}
-                                    <p>
-                                        {{pt.pt_number}}) {{pt.pt_text}}
-                                    </p>
-                                {% else %}
-                                    {{pt.pt_text}}
-                                {% endif %}
-                            {% endfor %}
-                        </p>
-                    {% endfor %}
-                </div>
-            {% endfor %}
-        {% endif %}
-    </div>
+    {% if paragraphs %}
+      {% for pg in paragraphs %}
+        <div>
+          <p class="pg_header">
+            <a class="st_ref" target="_blank" href="https://www.riigiteataja.ee/akt/{{pg.statute.short_name}}">{{pg.statute.short_name}}</a> § {{pg.pg_number}}.
+            {% if pg.pg_header %}{{pg.pg_header}}{% endif %}
+          </p>
+          {% for sc in pg.sections %}
+            <p>
+              {% if sc.sc_number %}({{sc.sc_number}}{% if sc.sc_index_number %}<sup>{{sc.sc_index_number}}</sup>{% endif %}) {% endif %}
+              {% for pt in sc.points %}
+                {% if pt.pt_number %}
+                  <p>
+                    {{pt.pt_number}}{% if pt.pt_index_number %}<sup>{{pt.pt_index_number}}</sup>{% endif %}) {{pt.pt_text}}
+                  </p>
+                {% else %}
+                  {{pt.pt_text}}
+                {% endif %}
+              {% endfor %}
+            </p>
+          {% endfor %}
+        </div>
+      {% endfor %}
+    {% endif %}
+  </div>
 {% endblock %}
