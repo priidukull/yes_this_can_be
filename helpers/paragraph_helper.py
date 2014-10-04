@@ -34,4 +34,4 @@ class Helper():
     return re.findall("\\n\d+\\n\(\d+<.+>\)\\n\\n|\\n\d+\\n\(\d+\)\\n\\n", pg_xml)
 
   def _not_poers_pg_9_sc_9(self, sc_xml):
-    return "[Lõike 9 sõnastus kuni 31.12.2003]" not in sc_xml
+    return "Ühistatud vara tagastamiseks õigustatud subjektidele, kellele on seoses võlgnikust ühismajandi või tema õigusjärglase likvideerimis- või pankrotimenetlusega jäetud nende kasuks põllmajandusreformi käigus võetud võlakohustus välja maksmata, rahuldatakse nõuded võlgnikust ühismajandi või tema õigusjärglase vastu vastavas pankrotimenetluses enne pankrotiseaduse § 86 lõike 1 punktides 2–6 nimetatud nõudeid." not in sc_xml
