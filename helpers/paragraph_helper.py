@@ -16,7 +16,7 @@ class Helper():
       sc_xml = sc_xml.split("\n\n\nRT")[0]
       try:
         sc_number = int(re.search("\((\d+)\)", sc_number_raw).group(1))
-        if "[Lõike 9 sõnastus alates 01.01.2004]" not in sc_xml:
+        if self._not_poers_pg_9_sc_9(sc_xml):
           sections.append({"paragraph_id": paragraph_id, "sc_number": sc_number, "sc_xml": sc_xml, "sc_index_number": 0})
       except AttributeError:
         sc_number = int(re.search("\((\d+)<sup>\d+</sup>\)", sc_number_raw).group(1))
@@ -33,3 +33,5 @@ class Helper():
   def _parse_sc_numbers_raw(self, pg_xml):
     return re.findall("\\n\d+\\n\(\d+<.+>\)\\n\\n|\\n\d+\\n\(\d+\)\\n\\n", pg_xml)
 
+  def _not_poers_pg_9_sc_9(self, sc_xml):
+    return "[Lõike 9 sõnastus alates 01.01.2004]" not in sc_xml
