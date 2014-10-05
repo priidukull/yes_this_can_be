@@ -24,7 +24,7 @@
       {% for pg in paragraphs %}
         <div>
           <p class="pg_header">
-            <a class="st_ref" target="_blank" href="https://www.riigiteataja.ee/akt/{{pg.statute.short_name}}">{{pg.statute.short_name}}</a> § {{pg.pg_number}}.
+            <a target="_blank" href="https://www.riigiteataja.ee/akt/{{pg.statute.short_name}}">{{pg.statute.short_name}}</a> § {{pg.pg_number}}.
             {% if pg.pg_header %}{{pg.pg_header}}{% endif %}
           </p>
           {% for sc in pg.sections %}

@@ -2,7 +2,7 @@
 
 .pg_header {font-weight: bold;}
 
-.st_ref:active {color: #000000;}
-.st_ref:hover {color: #000000;}
-.st_ref:link {color: #000000;}
-.st_ref:visited {color: #000000;}
+a:active {color: #0000EE;}
+a:hover {color: #0000EE;}
+a:link {color: #0000EE;}
+a:visited {color: #0000EE;}
