@@ -15,3 +15,7 @@ def index():
                            query_field=query_field,
                            paragraphs=paragraphs)
 
+
+@app.route('/facebook', methods=['GET', 'POST'])
+def facebook():
+    return render_template('facebook.html')
