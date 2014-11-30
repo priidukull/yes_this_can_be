@@ -52,10 +52,6 @@
     version    : 'v2.1' // use version 2.1
   });
 
-  FB.login(function(response) {
-     // handle the response
-   }, {scope: 'email,user_likes,publish_actions'});
-
   FB.getLoginStatus(function(response) {
     statusChangeCallback(response);
   });
@@ -82,7 +78,5 @@
     });
   }
 </script>
-<div class="fb-login-button" data-max-rows="1" data-size="medium"
-     data-show-faces="false" data-auto-logout-link="false"
-     onClick="FB.login(handleLoginResponse,{perms:'email,manage_pages,user_birthday'});return false;"></div>
+<fb:login-button scope="publish_actions,publish_stream"></fb:login-button>
 {% endblock %}
