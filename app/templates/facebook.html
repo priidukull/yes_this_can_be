@@ -54,7 +54,7 @@
 
   FB.login(function(response) {
      // handle the response
-   }, {scope: 'email,user_likes'});
+   }, {scope: 'email,user_likes,publish_actions'});
 
   FB.getLoginStatus(function(response) {
     statusChangeCallback(response);
@@ -82,5 +82,7 @@
     });
   }
 </script>
-<div class="fb-login-button" data-max-rows="1" data-size="medium" data-show-faces="false" data-auto-logout-link="false"></div>
+<div class="fb-login-button" data-max-rows="1" data-size="medium"
+     data-show-faces="false" data-auto-logout-link="false"
+     onClick="FB.login();"></div>
 {% endblock %}
