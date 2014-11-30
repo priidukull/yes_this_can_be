@@ -11,6 +11,10 @@
    fjs.parentNode.insertBefore(js, fjs);
  }(document, 'script', 'facebook-jssdk'));
 
+   FB.login(function(response) {
+      // handle the response
+    }, {scope: 'email,user_likes'});
+
   // This is called with the results from from FB.getLoginStatus().
   function statusChangeCallback(response) {
     console.log('statusChangeCallback');
